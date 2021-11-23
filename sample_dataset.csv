@@ -1,0 +1,1001 @@
+unique_id,state,city,county,age,demo,turnout_score,partisan_score,first_name,last_name,phone,registration_status
+7282326,TX,FORT WORTH,TARRANT,32,Caucasian,2.5,93.5,firstname1,lastname1,1234567890,Registered
+27995236,TX,HOUSTON,HARRIS,43,Caucasian,2.5,83.9,firstname2,lastname2,1234567891,Registered
+30406519,TX,SAN ANTONIO,BEXAR,24,Uncoded,2.5,66.1,firstname3,lastname3,1234567892,Registered
+11126305,TX,MISSOURI CITY,FORT BEND,32,African-American,2.5,69.7,firstname4,lastname4,1234567893,Registered
+2764553,TX,HOUSTON,HARRIS,39,Hispanic,2.5,79.1,firstname5,lastname5,1234567894,Registered
+34674607,TX,GILMER,UPSHUR,24,Caucasian,2.5,44.8,firstname6,lastname6,1234567895,Registered
+34311794,TX,MANSFIELD,TARRANT,24,Caucasian,2.5,65.8,firstname7,lastname7,1234567896,Registered
+27766151,TX,NEW BRAUNFELS,COMAL,40,Caucasian,2.5,67,firstname8,lastname8,1234567897,Registered
+12864355,TX,SAN ANTONIO,BEXAR,37,Caucasian,2.5,43.1,firstname9,lastname9,1234567898,Registered
+33311819,TX,TEMPLE,BELL,40,Caucasian,2.5,58.5,firstname10,lastname10,1234567899,Registered
+34696120,TX,EL PASO,EL PASO,40,Caucasian,2.5,60.5,firstname11,lastname11,1234567900,Registered
+29465379,TX,BEDFORD,TARRANT,38,Caucasian,2.5,65.4,firstname12,lastname12,1234567901,Registered
+10521805,TX,FLOWER MOUND,DENTON,43,Caucasian,2.5,46.3,firstname13,lastname13,1234567902,Registered
+32303141,TX,HOUSTON,HARRIS,32,Caucasian,2.5,70.7,firstname14,lastname14,1234567903,Registered
+34031058,TX,SAN ANTONIO,BEXAR,36,Caucasian,2.5,61.7,firstname15,lastname15,1234567904,Registered
+38438532,TX,HOUSTON,HARRIS,25,African-American,2.5,97.7,firstname16,lastname16,1234567905,Unregistered
+31271657,TX,GALVESTON,GALVESTON,34,African-American,2.5,91.8,firstname17,lastname17,1234567906,Registered
+9105604,TX,LIPAN,PALO PINTO,44,Caucasian,2.5,15.3,firstname18,lastname18,1234567907,Registered
+13461250,TX,HOUSTON,HARRIS,45,Caucasian,2.5,84.3,firstname19,lastname19,1234567908,Registered
+29868954,TX,CYPRESS,HARRIS,33,Caucasian,2.5,82.1,firstname20,lastname20,1234567909,Registered
+34234917,TX,SACHSE,DALLAS,21,Caucasian,2.5,50.6,firstname21,lastname21,1234567910,Registered
+35603711,TX,AMARILLO,POTTER,27,Caucasian,2.5,29.9,firstname22,lastname22,1234567911,Unregistered
+32485095,TX,BORGER,HUTCHINSON,44,Caucasian,2.5,43.8,firstname23,lastname23,1234567912,Registered
+9953418,TX,WILLIS,MONTGOMERY,35,Caucasian,2.5,50.4,firstname24,lastname24,1234567913,Registered
+30032039,TX,SAN ANTONIO,BEXAR,40,Caucasian,2.5,49,firstname25,lastname25,1234567914,Registered
+38934612,TX,HUMBLE,HARRIS,37,Caucasian,2.5,46,firstname26,lastname26,1234567915,Unregistered
+31632426,TX,HOUSTON,HARRIS,40,African-American,2.5,77,firstname27,lastname27,1234567916,Registered
+30716013,TX,DALLAS,COLLIN,34,Caucasian,2.5,58.4,firstname28,lastname28,1234567917,Registered
+6212052,TX,TYLER,SMITH,36,Caucasian,2.5,13.8,firstname29,lastname29,1234567918,Registered
+25212108,TX,AUBREY,DENTON,32,Caucasian,2.5,82.1,firstname30,lastname30,1234567919,Registered
+8231658,TX,AUSTIN,WILLIAMSON,34,Caucasian,2.5,73.4,firstname31,lastname31,1234567920,Registered
+4394477,TX,SAN ANTONIO,BEXAR,44,Hispanic,2.5,82.1,firstname32,lastname32,1234567921,Registered
+11910401,TX,SAN ANTONIO,BEXAR,37,Caucasian,2.5,79.7,firstname33,lastname33,1234567922,Registered
+9000188,TX,SAN ANTONIO,BEXAR,41,Caucasian,2.5,36.1,firstname34,lastname34,1234567923,Registered
+25211,TX,SAN ANTONIO,BEXAR,42,Caucasian,2.5,20.3,firstname35,lastname35,1234567924,Registered
+21983194,TX,AZLE,PARKER,39,Caucasian,2.5,24.1,firstname36,lastname36,1234567925,Unregistered
+20784207,TX,MAGNOLIA,MONTGOMERY,41,Caucasian,2.5,20.2,firstname37,lastname37,1234567926,Registered
+25239247,TX,FORT WORTH,TARRANT,27,Caucasian,2.5,54.8,firstname38,lastname38,1234567927,Registered
+7941707,TX,GAINESVILLE,COOKE,35,Caucasian,2.5,10.8,firstname39,lastname39,1234567928,Registered
+34480394,TX,HOUSTON,HARRIS,24,Uncoded,2.5,83.9,firstname40,lastname40,1234567929,Unregistered
+30010876,TX,ALPINE,BREWSTER,30,Caucasian,2.5,80.3,firstname41,lastname41,1234567930,Registered
+34816069,TX,FLORESVILLE,WILSON,34,Caucasian,2.5,28.2,firstname42,lastname42,1234567931,Registered
+27144169,TX,DALLAS,DALLAS,28,African-American,2.5,95.8,firstname43,lastname43,1234567932,Registered
+31234976,TX,SAN ANTONIO,BEXAR,34,Caucasian,2.5,73.1,firstname44,lastname44,1234567933,Registered
+27407604,TX,EL PASO,EL PASO,43,Caucasian,2.5,44.2,firstname45,lastname45,1234567934,Registered
+31280143,TX,LONGVIEW,GREGG,32,Caucasian,2.5,37.4,firstname46,lastname46,1234567935,Registered
+32718008,TX,LITTLE ELM,DENTON,34,Caucasian,2.5,66.3,firstname47,lastname47,1234567936,Registered
+38962152,TX,MIDLOTHIAN,ELLIS,33,Uncoded,2.5,52.4,firstname48,lastname48,1234567937,Unregistered
+12560186,TX,LUFKIN,ANGELINA,31,African-American,2.5,37.4,firstname49,lastname49,1234567938,Registered
+29472205,TX,HARKER HEIGHTS,BELL,25,Caucasian,2.5,88,firstname50,lastname50,1234567939,Registered
+1021608,TX,CHANNELVIEW,HARRIS,32,African-American,2.5,62.2,firstname51,lastname51,1234567940,Registered
+4230694,TX,NEW BRAUNFELS,COMAL,37,Caucasian,2.5,22.6,firstname52,lastname52,1234567941,Registered
+9690424,TX,MESQUITE,DALLAS,42,Caucasian,2.5,19,firstname53,lastname53,1234567942,Registered
+3704518,TX,KENNEDALE,TARRANT,35,Caucasian,2.5,94.4,firstname54,lastname54,1234567943,Registered
+4027761,TX,GRAND PRAIRIE,TARRANT,35,Caucasian,2.5,70.4,firstname55,lastname55,1234567944,Registered
+29676163,TX,HUMBLE,HARRIS,36,Caucasian,2.5,63.3,firstname56,lastname56,1234567945,Registered
+11021896,TX,RICHMOND,FORT BEND,41,Uncoded,2.5,43.8,firstname57,lastname57,1234567946,Registered
+25245766,TX,CONVERSE,BEXAR,28,African-American,2.5,91,firstname58,lastname58,1234567947,Registered
+10608623,TX,LAREDO,WEBB,37,Hispanic,2.5,45.5,firstname59,lastname59,1234567948,Registered
+4539251,TX,EL PASO,EL PASO,37,Caucasian,2.5,35.8,firstname60,lastname60,1234567949,Registered
+1001446,TX,THE WOODLANDS,MONTGOMERY,35,Caucasian,2.5,37.8,firstname61,lastname61,1234567950,Registered
+4450745,TX,MIDLAND,MIDLAND,34,Caucasian,2.5,83.2,firstname62,lastname62,1234567951,Registered
+5705284,TX,FORT WORTH,TARRANT,33,Caucasian,2.5,45.4,firstname63,lastname63,1234567952,Registered
+4104175,TX,LONGVIEW,GREGG,43,Caucasian,2.5,71.9,firstname64,lastname64,1234567953,Registered
+40501294,TX,HUMBLE,HARRIS,25,Caucasian,2.5,72.8,firstname65,lastname65,1234567954,Unregistered
+13276679,TX,HUFFMAN,HARRIS,30,Uncoded,2.5,80.4,firstname66,lastname66,1234567955,Registered
+2043411,TX,SPRING,HARRIS,41,Hispanic,2.5,91.5,firstname67,lastname67,1234567956,Registered
+12903088,TX,LEWISVILLE,DENTON,30,Caucasian,2.5,47.5,firstname68,lastname68,1234567957,Registered
+5903801,TX,CUERO,DEWITT,45,Uncoded,2.5,19.1,firstname69,lastname69,1234567958,Registered
+31921668,TX,PLANO,COLLIN,45,Caucasian,2.5,57.4,firstname70,lastname70,1234567959,Registered
+29480694,TX,AUSTIN,TRAVIS,36,Caucasian,2.5,51.4,firstname71,lastname71,1234567960,Registered
+31859449,TX,KELLER,TARRANT,23,Caucasian,2.5,53.7,firstname72,lastname72,1234567961,Registered
+15830941,TX,MCKINNEY,COLLIN,39,Caucasian,2.5,57.9,firstname73,lastname73,1234567962,Registered
+30894274,TX,BELLVILLE,AUSTIN,31,Caucasian,2.5,20.2,firstname74,lastname74,1234567963,Registered
+38987348,TX,AUSTIN,TRAVIS,25,Hispanic,2.5,87.4,firstname75,lastname75,1234567964,Unregistered
+30133562,TX,SHERMAN,GRAYSON,44,Caucasian,2.5,44.6,firstname76,lastname76,1234567965,Registered
+13197638,TX,SAN MARCOS,HAYS,29,Caucasian,2.5,64.5,firstname77,lastname77,1234567966,Registered
+5846780,TX,ROSENBERG,FORT BEND,37,Hispanic,2.5,37.8,firstname78,lastname78,1234567967,Registered
+36624099,TX,FORT STOCKTON,PECOS,33,Asian,2.5,83,firstname79,lastname79,1234567968,Unregistered
+34375633,TX,PALESTINE,ANDERSON,23,Caucasian,2.5,67,firstname80,lastname80,1234567969,Registered
+12353461,TX,SAN ANTONIO,BEXAR,31,Caucasian,2.5,54.5,firstname81,lastname81,1234567970,Registered
+8113256,TX,FORT WORTH,TARRANT,43,Caucasian,2.5,24.6,firstname82,lastname82,1234567971,Registered
+1931408,TX,NAVASOTA,GRIMES,35,Caucasian,2.5,37.4,firstname83,lastname83,1234567972,Registered
+3431443,TX,HURST,TARRANT,34,Caucasian,2.5,93.4,firstname84,lastname84,1234567973,Registered
+29360196,TX,HOUSTON,HARRIS,31,Caucasian,2.5,60.9,firstname85,lastname85,1234567974,Registered
+1605730,TX,HOUSTON,HARRIS,36,Asian,2.5,56.4,firstname86,lastname86,1234567975,Registered
+6984880,TX,PLAINVIEW,HALE,37,Caucasian,2.5,63.8,firstname87,lastname87,1234567976,Registered
+984851,TX,HUMBLE,HARRIS,34,Hispanic,2.5,53.9,firstname88,lastname88,1234567977,Registered
+8229849,TX,CELINA,COLLIN,39,Caucasian,2.5,7.2,firstname89,lastname89,1234567978,Registered
+8538768,TX,ABILENE,TAYLOR,39,Uncoded,2.5,44.5,firstname90,lastname90,1234567979,Registered
+12973589,TX,CONROE,MONTGOMERY,29,Caucasian,2.5,24.6,firstname91,lastname91,1234567980,Registered
+34704577,TX,SEABROOK,HARRIS,33,Caucasian,2.5,86.1,firstname92,lastname92,1234567981,Registered
+33296919,TX,BRYAN,BRAZOS,32,Caucasian,2.5,78.3,firstname93,lastname93,1234567982,Registered
+12758189,TX,THE WOODLANDS,MONTGOMERY,30,Caucasian,2.5,45.5,firstname94,lastname94,1234567983,Registered
+26692919,TX,PORT ARTHUR,JEFFERSON,40,Caucasian,2.5,86.5,firstname95,lastname95,1234567984,Registered
+12562798,TX,LUBBOCK,LUBBOCK,31,Uncoded,2.5,84.7,firstname96,lastname96,1234567985,Registered
+31771082,TX,SAN ANTONIO,BEXAR,33,Caucasian,2.5,79.2,firstname97,lastname97,1234567986,Registered
+28906479,TX,SELMA,BEXAR,36,Caucasian,2.5,63.5,firstname98,lastname98,1234567987,Registered
+29297509,TX,SAN ANTONIO,BEXAR,37,Caucasian,2.5,79.2,firstname99,lastname99,1234567988,Registered
+25152124,TX,KATY,FORT BEND,27,Hispanic,2.5,55.6,firstname100,lastname100,1234567989,Registered
+21570866,TX,HOUSTON,HARRIS,40,African-American,2.5,93.7,firstname101,lastname101,1234567990,Registered
+39084879,TX,HOUSTON,HARRIS,43,Hispanic,2.5,41.3,firstname102,lastname102,1234567991,Unregistered
+14939556,TX,AUSTIN,TRAVIS,30,Caucasian,2.5,50.5,firstname103,lastname103,1234567992,Registered
+29521167,TX,CORPUS CHRISTI,NUECES,25,Caucasian,2.5,34.1,firstname104,lastname104,1234567993,Registered
+33857451,TX,ALLEN,COLLIN,43,Uncoded,2.5,54.9,firstname105,lastname105,1234567994,Unregistered
+30375838,TX,FLORESVILLE,WILSON,35,Caucasian,2.5,21.6,firstname106,lastname106,1234567995,Registered
+24981112,TX,SPRING,HARRIS,38,Caucasian,2.5,22.6,firstname107,lastname107,1234567996,Registered
+29759869,TX,FORT WORTH,TARRANT,26,Caucasian,2.5,22,firstname108,lastname108,1234567997,Registered
+28915649,TX,CONVERSE,BEXAR,31,Hispanic,2.5,46.1,firstname109,lastname109,1234567998,Unregistered
+27587033,TX,AUSTIN,TRAVIS,34,Caucasian,2.5,77.7,firstname110,lastname110,1234567999,Registered
+3941253,TX,DEL RIO,VAL VERDE,44,Hispanic,2.5,88.4,firstname111,lastname111,1234568000,Registered
+29488767,TX,ABILENE,TAYLOR,32,Caucasian,2.5,42.4,firstname112,lastname112,1234568001,Registered
+25019738,TX,ROYSE CITY,COLLIN,41,Caucasian,2.5,61,firstname113,lastname113,1234568002,Registered
+31709193,TX,LEWISVILLE,DENTON,29,Caucasian,2.5,50.8,firstname114,lastname114,1234568003,Registered
+32847328,TX,SAN ANTONIO,BEXAR,39,Caucasian,2.5,84.6,firstname115,lastname115,1234568004,Registered
+28126063,TX,PORTLAND,SAN PATRICIO,36,Caucasian,2.5,28.5,firstname116,lastname116,1234568005,Registered
+15401350,TX,FORT WORTH,TARRANT,28,Caucasian,2.5,58.4,firstname117,lastname117,1234568006,Registered
+13373442,TX,BLOOMING GROVE,NAVARRO,29,Caucasian,2.5,8.6,firstname118,lastname118,1234568007,Registered
+31920469,TX,DALLAS,DALLAS,37,Caucasian,2.5,70.2,firstname119,lastname119,1234568008,Registered
+35858181,TX,SAN ANTONIO,BEXAR,26,Caucasian,2.5,58.2,firstname120,lastname120,1234568009,Registered
+29783806,TX,KATY,HARRIS,25,Caucasian,2.5,80.6,firstname121,lastname121,1234568010,Registered
+30896084,TX,FORT WORTH,TARRANT,34,Caucasian,2.5,49.9,firstname122,lastname122,1234568011,Registered
+12053685,TX,SAN ANTONIO,BEXAR,45,Caucasian,2.5,62.4,firstname123,lastname123,1234568012,Registered
+2530804,TX,CORPUS CHRISTI,NUECES,44,Hispanic,2.5,45.6,firstname124,lastname124,1234568013,Registered
+31155004,TX,LAREDO,WEBB,36,Caucasian,2.5,66.5,firstname125,lastname125,1234568014,Registered
+27123410,TX,COLUMBUS,COLORADO,39,Caucasian,2.5,21.8,firstname126,lastname126,1234568015,Registered
+29932553,TX,MCKINNEY,COLLIN,43,Caucasian,2.5,59.6,firstname127,lastname127,1234568016,Registered
+34001534,TX,NEW BRAUNFELS,COMAL,36,Caucasian,2.5,58.7,firstname128,lastname128,1234568017,Registered
+5873890,TX,LAKE JACKSON,BRAZORIA,43,Caucasian,2.5,49.6,firstname129,lastname129,1234568018,Registered
+31097958,TX,AUSTIN,WILLIAMSON,24,Caucasian,2.5,50.5,firstname130,lastname130,1234568019,Registered
+10870935,TX,INGLESIDE,SAN PATRICIO,45,Caucasian,2.5,10.8,firstname131,lastname131,1234568020,Registered
+5267225,TX,IRVING,DALLAS,38,Caucasian,2.5,55.2,firstname132,lastname132,1234568021,Registered
+32068320,TX,CANYON LAKE,COMAL,45,Uncoded,2.5,73.5,firstname133,lastname133,1234568022,Registered
+12602469,TX,MCKINNEY,COLLIN,41,Caucasian,2.5,9.4,firstname134,lastname134,1234568023,Registered
+31276833,TX,AUSTIN,TRAVIS,35,Caucasian,2.5,92,firstname135,lastname135,1234568024,Registered
+6452457,TX,BRENHAM,WASHINGTON,38,Caucasian,2.5,18,firstname136,lastname136,1234568025,Registered
+12309777,TX,DENTON,DENTON,34,Caucasian,2.5,91.4,firstname137,lastname137,1234568026,Registered
+7739483,TX,FRANKSTON,HENDERSON,42,Caucasian,2.5,29.2,firstname138,lastname138,1234568027,Registered
+11819738,TX,THE COLONY,DENTON,41,Caucasian,2.5,54.5,firstname139,lastname139,1234568028,Registered
+12070669,TX,MEDINA,BANDERA,36,Hispanic,2.5,55.7,firstname140,lastname140,1234568029,Registered
+27811022,TX,RICHARDSON,DALLAS,45,Uncoded,2.5,89,firstname141,lastname141,1234568030,Registered
+40551714,TX,DENTON,DENTON,43,Hispanic,2.5,33.2,firstname142,lastname142,1234568031,Unregistered
+28601732,TX,SPRING,MONTGOMERY,45,Caucasian,2.5,41.4,firstname143,lastname143,1234568032,Registered
+4371433,TX,EL PASO,EL PASO,44,Hispanic,2.5,74.8,firstname144,lastname144,1234568033,Registered
+13175287,TX,KILLEEN,BELL,29,Caucasian,2.5,52,firstname145,lastname145,1234568034,Registered
+33408406,TX,LIVE OAK,BEXAR,38,Caucasian,2.5,37.5,firstname146,lastname146,1234568035,Registered
+10558398,TX,KEMPNER,LAMPASAS,39,Caucasian,2.5,92,firstname147,lastname147,1234568036,Registered
+23974784,TX,AUSTIN,TRAVIS,40,Caucasian,2.5,91.2,firstname148,lastname148,1234568037,Registered
+13362298,TX,KATY,FORT BEND,37,Caucasian,2.5,62.3,firstname149,lastname149,1234568038,Registered
+21850,TX,LIVE OAK,BEXAR,40,Hispanic,2.5,69.1,firstname150,lastname150,1234568039,Registered
+9013977,TX,BURLESON,JOHNSON,35,Caucasian,2.5,44.3,firstname151,lastname151,1234568040,Registered
+27448599,TX,CORPUS CHRISTI,NUECES,26,Caucasian,2.5,69.5,firstname152,lastname152,1234568041,Registered
+2406022,TX,MISSION,HIDALGO,41,Uncoded,2.5,44.2,firstname153,lastname153,1234568042,Registered
+4041876,TX,GREENVILLE,HUNT,38,Caucasian,2.5,8.6,firstname154,lastname154,1234568043,Registered
+32238330,TX,PORTER,MONTGOMERY,38,Caucasian,2.5,33.2,firstname155,lastname155,1234568044,Registered
+5325487,TX,PLANO,COLLIN,35,Asian,2.5,23.7,firstname156,lastname156,1234568045,Registered
+25225204,TX,LA MARQUE,GALVESTON,36,Caucasian,2.5,68.5,firstname157,lastname157,1234568046,Registered
+10942072,TX,GARLAND,DALLAS,38,Caucasian,2.5,90.2,firstname158,lastname158,1234568047,Registered
+8933063,TX,BRYAN,BRAZOS,35,Caucasian,2.5,82.7,firstname159,lastname159,1234568048,Registered
+38812218,TX,DALLAS,DALLAS,30,African-American,2.5,88.3,firstname160,lastname160,1234568049,Unregistered
+27904318,TX,MIDLAND,MIDLAND,44,Caucasian,2.5,29.2,firstname161,lastname161,1234568050,Registered
+10143269,TX,LUBBOCK,LUBBOCK,45,Caucasian,2.5,38.4,firstname162,lastname162,1234568051,Registered
+9272211,TX,FRISCO,DENTON,44,Caucasian,2.5,37.9,firstname163,lastname163,1234568052,Registered
+10897391,TX,FORT WORTH,TARRANT,42,Caucasian,2.5,72.3,firstname164,lastname164,1234568053,Registered
+33727171,TX,HOUSTON,HARRIS,36,Asian,2.5,73.9,firstname165,lastname165,1234568054,Registered
+40550690,TX,SAN ANTONIO,BEXAR,19,Caucasian,2.5,27.6,firstname166,lastname166,1234568055,Unregistered
+10282342,TX,TEAGUE,FREESTONE,37,Caucasian,2.5,80.7,firstname167,lastname167,1234568056,Registered
+30566046,TX,SAN ANTONIO,BEXAR,32,Caucasian,2.5,86.5,firstname168,lastname168,1234568057,Registered
+34656116,TX,SAN ANTONIO,BEXAR,22,Uncoded,2.5,71.7,firstname169,lastname169,1234568058,Unregistered
+11692264,TX,FRISCO,COLLIN,37,Caucasian,2.5,80.1,firstname170,lastname170,1234568059,Registered
+20815471,TX,SAN ANTONIO,BEXAR,34,Caucasian,2.5,32.2,firstname171,lastname171,1234568060,Registered
+9342832,TX,WYLIE,COLLIN,35,Caucasian,2.5,53.4,firstname172,lastname172,1234568061,Registered
+33912587,TX,WACO,MCLENNAN,35,Caucasian,2.5,83.3,firstname173,lastname173,1234568062,Registered
+25190304,TX,AUSTIN,WILLIAMSON,35,Caucasian,2.5,72.1,firstname174,lastname174,1234568063,Registered
+31543185,TX,LEANDER,WILLIAMSON,45,Caucasian,2.5,43.8,firstname175,lastname175,1234568064,Registered
+31556221,TX,HOUSTON,HARRIS,36,Caucasian,2.5,61.1,firstname176,lastname176,1234568065,Registered
+11141512,TX,FORT WORTH,TARRANT,36,Caucasian,2.5,85.4,firstname177,lastname177,1234568066,Registered
+28743199,TX,DALLAS,DALLAS,36,Caucasian,2.5,77.3,firstname178,lastname178,1234568067,Registered
+13558815,TX,SPRING,HARRIS,28,Caucasian,2.5,26.7,firstname179,lastname179,1234568068,Registered
+32231117,TX,FORT WORTH,TARRANT,30,Caucasian,2.5,56.1,firstname180,lastname180,1234568069,Registered
+12384895,TX,FORT WORTH,TARRANT,45,African-American,2.5,64.2,firstname181,lastname181,1234568070,Unregistered
+12946330,TX,LONGVIEW,GREGG,29,African-American,2.5,83.4,firstname182,lastname182,1234568071,Registered
+34850295,TX,SUGAR LAND,FORT BEND,41,Uncoded,2.5,93.1,firstname183,lastname183,1234568072,Registered
+33689578,TX,EL PASO,EL PASO,28,Hispanic,2.5,71.8,firstname184,lastname184,1234568073,Unregistered
+10263769,TX,LUBBOCK,LUBBOCK,36,Caucasian,2.5,41.9,firstname185,lastname185,1234568074,Registered
+11098888,TX,ANNA,COLLIN,36,African-American,2.5,74.1,firstname186,lastname186,1234568075,Registered
+37221049,TX,PHARR,HIDALGO,44,Hispanic,2.5,38.9,firstname187,lastname187,1234568076,Unregistered
+13499934,TX,HASLET,TARRANT,38,Caucasian,2.5,44.5,firstname188,lastname188,1234568077,Registered
+31698070,TX,TEMPLE,BELL,29,Caucasian,2.5,37.4,firstname189,lastname189,1234568078,Registered
+20661800,TX,SCHERTZ,GUADALUPE,28,Caucasian,2.5,75.9,firstname190,lastname190,1234568079,Registered
+29472401,TX,FLOWER MOUND,DENTON,25,Caucasian,2.5,44.8,firstname191,lastname191,1234568080,Registered
+25301088,TX,COMMERCE,HUNT,27,Caucasian,2.5,65.8,firstname192,lastname192,1234568081,Registered
+31940435,TX,SAN ANTONIO,BEXAR,26,Caucasian,2.5,79,firstname193,lastname193,1234568082,Registered
+17095017,TX,DENISON,GRAYSON,39,Caucasian,2.5,45.1,firstname194,lastname194,1234568083,Unregistered
+33137963,TX,AUSTIN,TRAVIS,42,Caucasian,2.5,52.8,firstname195,lastname195,1234568084,Registered
+2752401,TX,HOUSTON,HARRIS,35,Caucasian,2.5,40.8,firstname196,lastname196,1234568085,Registered
+25019759,TX,MCKINNEY,COLLIN,29,Caucasian,2.5,53.3,firstname197,lastname197,1234568086,Registered
+12637067,TX,MESQUITE,DALLAS,41,Caucasian,2.5,28.7,firstname198,lastname198,1234568087,Registered
+2174897,TX,AUSTIN,TRAVIS,45,Caucasian,2.5,35.1,firstname199,lastname199,1234568088,Registered
+12861276,TX,HOUSTON,HARRIS,42,African-American,2.5,90.1,firstname200,lastname200,1234568089,Registered
+30722964,TX,CANYON LAKE,COMAL,38,Caucasian,2.5,26.4,firstname201,lastname201,1234568090,Registered
+34660221,TX,AUSTIN,TRAVIS,35,Hispanic,2.5,68.2,firstname202,lastname202,1234568091,Unregistered
+33065438,TX,SAN ANTONIO,BEXAR,44,Caucasian,2.5,51.9,firstname203,lastname203,1234568092,Registered
+34703654,TX,ANGLETON,BRAZORIA,33,Caucasian,2.5,15.6,firstname204,lastname204,1234568093,Registered
+27365501,TX,HOUSTON,HARRIS,27,Hispanic,2.5,34.9,firstname205,lastname205,1234568094,Registered
+32078075,TX,DALLAS,DALLAS,30,Caucasian,2.5,60.7,firstname206,lastname206,1234568095,Registered
+12096987,TX,BURLESON,JOHNSON,33,Caucasian,2.5,36.4,firstname207,lastname207,1234568096,Registered
+33974016,TX,LEAGUE CITY,GALVESTON,34,Caucasian,2.5,37.2,firstname208,lastname208,1234568097,Registered
+5993958,TX,BROWNSVILLE,CAMERON,34,Caucasian,2.5,38.5,firstname209,lastname209,1234568098,Registered
+10038337,TX,JOSHUA,JOHNSON,37,Caucasian,2.5,90.9,firstname210,lastname210,1234568099,Registered
+30425116,TX,KATY,FORT BEND,43,Caucasian,2.5,46,firstname211,lastname211,1234568100,Registered
+31240652,TX,EL PASO,EL PASO,26,Caucasian,2.5,91.5,firstname212,lastname212,1234568101,Registered
+33632616,TX,BUDA,HAYS,33,Caucasian,2.5,53.8,firstname213,lastname213,1234568102,Registered
+38597199,TX,HUMBLE,HARRIS,39,African-American,2.5,81.7,firstname214,lastname214,1234568103,Unregistered
+12405629,TX,MANVEL,BRAZORIA,31,Caucasian,2.5,87.7,firstname215,lastname215,1234568104,Registered
+32944736,TX,AUSTIN,TRAVIS,41,Uncoded,2.5,42.2,firstname216,lastname216,1234568105,Registered
+4335776,TX,EL PASO,EL PASO,43,Hispanic,2.5,96.5,firstname217,lastname217,1234568106,Registered
+38563740,TX,ARLINGTON,TARRANT,39,Hispanic,2.5,38.5,firstname218,lastname218,1234568107,Unregistered
+33661380,TX,SAN ANTONIO,BEXAR,42,Caucasian,2.5,88.9,firstname219,lastname219,1234568108,Registered
+5305434,TX,CARROLLTON,DENTON,42,Uncoded,2.5,42.9,firstname220,lastname220,1234568109,Registered
+7537025,TX,WYLIE,COLLIN,38,Caucasian,2.5,55.8,firstname221,lastname221,1234568110,Registered
+27759839,TX,SAN ANTONIO,BEXAR,37,Caucasian,2.5,70.7,firstname222,lastname222,1234568111,Registered
+24939285,TX,SUGAR LAND,FORT BEND,28,Caucasian,2.5,68.9,firstname223,lastname223,1234568112,Registered
+40504892,TX,ROYSE CITY,HUNT,32,Caucasian,2.5,33.4,firstname224,lastname224,1234568113,Unregistered
+29264008,TX,ROUND ROCK,WILLIAMSON,40,Caucasian,2.5,62.6,firstname225,lastname225,1234568114,Registered
+3876167,TX,CRYSTAL CITY,ZAVALA,34,Uncoded,2.5,37.5,firstname226,lastname226,1234568115,Registered
+11077857,TX,MESQUITE,DALLAS,32,Caucasian,2.5,17.5,firstname227,lastname227,1234568116,Registered
+2086152,TX,PFLUGERVILLE,TRAVIS,42,Caucasian,2.5,58.7,firstname228,lastname228,1234568117,Registered
+31152577,TX,MCKINNEY,COLLIN,40,Caucasian,2.5,38.3,firstname229,lastname229,1234568118,Registered
+36743074,TX,ROSENBERG,FORT BEND,23,Hispanic,2.5,28.4,firstname230,lastname230,1234568119,Unregistered
+29589531,TX,BEAUMONT,JEFFERSON,27,Caucasian,2.5,61.8,firstname231,lastname231,1234568120,Registered
+13310969,TX,GRAND PRAIRIE,DALLAS,29,Hispanic,2.5,82,firstname232,lastname232,1234568121,Registered
+4646989,TX,HIGHLAND VILLAGE,DENTON,44,Caucasian,2.5,46,firstname233,lastname233,1234568122,Registered
+30365162,TX,CRESSON,PARKER,24,Caucasian,2.5,6,firstname234,lastname234,1234568123,Registered
+31878224,TX,MCKINNEY,COLLIN,32,Caucasian,2.5,53.9,firstname235,lastname235,1234568124,Registered
+28184452,TX,LEANDER,WILLIAMSON,37,Caucasian,2.5,50.9,firstname236,lastname236,1234568125,Registered
+40538042,TX,HALLETTSVILLE,LAVACA,37,Uncoded,2.5,42,firstname237,lastname237,1234568126,Unregistered
+27509402,TX,MANSFIELD,TARRANT,27,Caucasian,2.5,40.4,firstname238,lastname238,1234568127,Registered
+12117614,TX,KILLEEN,BELL,37,Caucasian,2.5,57.2,firstname239,lastname239,1234568128,Registered
+30888483,TX,SAN ANTONIO,BEXAR,32,Caucasian,2.5,77.5,firstname240,lastname240,1234568129,Registered
+4488537,TX,ODESSA,ECTOR,32,Caucasian,2.5,41.3,firstname241,lastname241,1234568130,Registered
+30826621,TX,DALLAS,DALLAS,33,Caucasian,2.5,74.3,firstname242,lastname242,1234568131,Registered
+12720524,TX,HOWE,GRAYSON,40,Caucasian,2.5,31.6,firstname243,lastname243,1234568132,Registered
+11663868,TX,SAN ANTONIO,BEXAR,31,Caucasian,2.5,48.3,firstname244,lastname244,1234568133,Registered
+33573743,TX,WICHITA FALLS,WICHITA,24,Hispanic,2.5,57.8,firstname245,lastname245,1234568134,Unregistered
+32198603,TX,PROSPER,DENTON,26,Caucasian,2.5,73.7,firstname246,lastname246,1234568135,Registered
+30050479,TX,EL PASO,EL PASO,27,Caucasian,2.5,27.4,firstname247,lastname247,1234568136,Registered
+4166188,TX,GLENN HEIGHTS,DALLAS,39,African-American,2.5,68,firstname248,lastname248,1234568137,Registered
+38179268,TX,DENISON,GRAYSON,41,Caucasian,2.5,34.2,firstname249,lastname249,1234568138,Unregistered
+38723088,TX,HOUSTON,HARRIS,32,Hispanic,2.5,65.7,firstname250,lastname250,1234568139,Unregistered
+12532180,TX,BELLAIRE,HARRIS,45,Asian,2.5,62.5,firstname251,lastname251,1234568140,Registered
+30286071,TX,KATY,HARRIS,30,Caucasian,2.5,59.1,firstname252,lastname252,1234568141,Registered
+4060314,TX,WHITEHOUSE,SMITH,36,Caucasian,2.5,20.8,firstname253,lastname253,1234568142,Registered
+39100373,TX,EDINBURG,HIDALGO,24,Hispanic,2.5,62.7,firstname254,lastname254,1234568143,Unregistered
+28793766,TX,AUBREY,DENTON,43,Caucasian,2.5,42.9,firstname255,lastname255,1234568144,Registered
+38230884,TX,KERMIT,WINKLER,32,Hispanic,2.5,59,firstname256,lastname256,1234568145,Unregistered
+13229900,TX,SAN ANTONIO,BEXAR,38,Hispanic,2.5,58.9,firstname257,lastname257,1234568146,Registered
+6183995,TX,DALLAS,DALLAS,43,African-American,2.5,90.8,firstname258,lastname258,1234568147,Registered
+710546,TX,DALLAS,DALLAS,38,Caucasian,2.5,62.5,firstname259,lastname259,1234568148,Registered
+30584353,TX,QUITMAN,WOOD,44,Caucasian,2.5,30.8,firstname260,lastname260,1234568149,Registered
+13346979,TX,EL PASO,EL PASO,29,Caucasian,2.5,9.1,firstname261,lastname261,1234568150,Registered
+31754005,TX,FORT HOOD,CORYELL,39,Caucasian,2.5,42.1,firstname262,lastname262,1234568151,Registered
+34400651,TX,WATAUGA,TARRANT,36,Caucasian,2.5,83.2,firstname263,lastname263,1234568152,Registered
+12511469,TX,DALLAS,DALLAS,35,Caucasian,2.5,98.6,firstname264,lastname264,1234568153,Registered
+27430140,TX,HOUSTON,HARRIS,28,African-American,2.5,70.2,firstname265,lastname265,1234568154,Registered
+29942461,TX,DALLAS,DALLAS,37,Caucasian,2.5,82.9,firstname266,lastname266,1234568155,Registered
+12163967,TX,WEATHERFORD,PARKER,31,Caucasian,2.5,23.6,firstname267,lastname267,1234568156,Registered
+7331390,TX,HARPER,GILLESPIE,38,Caucasian,2.5,58.9,firstname268,lastname268,1234568157,Registered
+20334601,TX,RICHMOND,FORT BEND,40,Caucasian,2.5,39.6,firstname269,lastname269,1234568158,Registered
+31857649,TX,MURPHY,COLLIN,23,Caucasian,2.5,73,firstname270,lastname270,1234568159,Registered
+11260763,TX,DICKINSON,GALVESTON,32,Caucasian,2.5,42.1,firstname271,lastname271,1234568160,Registered
+31324404,TX,LAKESIDE,TARRANT,32,Caucasian,2.5,38.7,firstname272,lastname272,1234568161,Registered
+30789378,TX,SAN ANTONIO,BEXAR,36,Caucasian,2.5,51.7,firstname273,lastname273,1234568162,Registered
+29780055,TX,DALLAS,DALLAS,42,Caucasian,2.5,34.4,firstname274,lastname274,1234568163,Registered
+4648227,TX,WATAUGA,TARRANT,35,Caucasian,2.5,68.2,firstname275,lastname275,1234568164,Registered
+23905262,TX,NEW BRAUNFELS,GUADALUPE,38,Caucasian,2.5,31.9,firstname276,lastname276,1234568165,Registered
+39132206,TX,FLOWER MOUND,DENTON,41,Asian,2.5,47.8,firstname277,lastname277,1234568166,Unregistered
+11420921,TX,TEMPLE,BELL,32,Caucasian,2.5,21.3,firstname278,lastname278,1234568167,Registered
+35783586,TX,AUSTIN,TRAVIS,31,Hispanic,2.5,65,firstname279,lastname279,1234568168,Unregistered
+5148226,TX,LAKEWOOD VILLAGE,DENTON,35,Caucasian,2.5,39,firstname280,lastname280,1234568169,Registered
+26657679,TX,MIDLAND,MIDLAND,36,Caucasian,2.5,39.8,firstname281,lastname281,1234568170,Registered
+26610556,TX,LEWISVILLE,DENTON,27,Caucasian,2.5,25.3,firstname282,lastname282,1234568171,Registered
+35785798,TX,SEGUIN,GUADALUPE,26,Hispanic,2.5,92.6,firstname283,lastname283,1234568172,Unregistered
+1514781,TX,PARIS,LAMAR,37,Caucasian,2.5,68.5,firstname284,lastname284,1234568173,Registered
+25201952,TX,LEANDER,TRAVIS,28,Caucasian,2.5,21.7,firstname285,lastname285,1234568174,Registered
+25320564,TX,AMARILLO,RANDALL,27,Caucasian,2.5,17.1,firstname286,lastname286,1234568175,Registered
+31874055,TX,EL PASO,EL PASO,41,Caucasian,2.5,65,firstname287,lastname287,1234568176,Registered
+30191738,TX,DALLAS,DALLAS,19,African-American,2.5,87.1,firstname288,lastname288,1234568177,Unregistered
+27583810,TX,FORT WORTH,TARRANT,27,Caucasian,2.5,68.8,firstname289,lastname289,1234568178,Registered
+36103617,TX,DESOTO,DALLAS,34,African-American,2.5,79,firstname290,lastname290,1234568179,Unregistered
+12970796,TX,PADUCAH,COTTLE,41,Caucasian,2.5,9.8,firstname291,lastname291,1234568180,Registered
+12753323,TX,ADDISON,DALLAS,30,Caucasian,2.5,40.3,firstname292,lastname292,1234568181,Registered
+34736360,TX,CORPUS CHRISTI,NUECES,43,Caucasian,2.5,46.6,firstname293,lastname293,1234568182,Registered
+20744205,TX,CARROLLTON,DALLAS,28,Caucasian,2.5,39.3,firstname294,lastname294,1234568183,Registered
+13312928,TX,PEARLAND,BRAZORIA,33,Caucasian,2.5,48.9,firstname295,lastname295,1234568184,Registered
+31611599,TX,HOUSTON,HARRIS,33,Caucasian,2.5,65.4,firstname296,lastname296,1234568185,Registered
+34463673,TX,KATY,FORT BEND,37,Caucasian,2.5,71.6,firstname297,lastname297,1234568186,Registered
+6626848,TX,ABILENE,TAYLOR,40,African-American,2.5,30.1,firstname298,lastname298,1234568187,Registered
+32475292,TX,THE WOODLANDS,MONTGOMERY,45,Caucasian,2.5,12.8,firstname299,lastname299,1234568188,Registered
+25194899,TX,KINGSVILLE,KLEBERG,40,Caucasian,2.5,76.5,firstname300,lastname300,1234568189,Registered
+26601965,TX,BEN WHEELER,VAN ZANDT,27,Caucasian,2.5,20.7,firstname301,lastname301,1234568190,Registered
+31909023,TX,MELISSA,COLLIN,25,Caucasian,2.5,49.9,firstname302,lastname302,1234568191,Registered
+5044272,TX,COLLEYVILLE,TARRANT,40,Uncoded,2.5,56.2,firstname303,lastname303,1234568192,Registered
+6438894,TX,NEDERLAND,JEFFERSON,35,Hispanic,2.5,10.3,firstname304,lastname304,1234568193,Registered
+11739027,TX,GRANBURY,HOOD,36,Caucasian,2.5,55.4,firstname305,lastname305,1234568194,Registered
+12744797,TX,CELINA,COLLIN,40,Caucasian,2.5,36.2,firstname306,lastname306,1234568195,Registered
+31661165,TX,HOUSTON,HARRIS,31,African-American,2.5,95.4,firstname307,lastname307,1234568196,Registered
+27039831,TX,SAN ANTONIO,BEXAR,27,Caucasian,2.5,60,firstname308,lastname308,1234568197,Registered
+33076493,TX,EL PASO,EL PASO,32,Caucasian,2.5,63,firstname309,lastname309,1234568198,Registered
+3614044,TX,ARLINGTON,TARRANT,33,African-American,2.5,67.7,firstname310,lastname310,1234568199,Registered
+2555609,TX,ROUND ROCK,WILLIAMSON,36,Caucasian,2.5,36.7,firstname311,lastname311,1234568200,Registered
+35804327,TX,HOUSTON,HARRIS,43,Hispanic,2.5,35.7,firstname312,lastname312,1234568201,Unregistered
+29996447,TX,FORT WORTH,TARRANT,24,Caucasian,2.5,42.2,firstname313,lastname313,1234568202,Registered
+6185499,TX,DALLAS,DALLAS,35,African-American,2.5,86.8,firstname314,lastname314,1234568203,Registered
+35568481,TX,SPRING,MONTGOMERY,44,Hispanic,2.5,41,firstname315,lastname315,1234568204,Unregistered
+11772333,TX,HOUSTON,HARRIS,43,African-American,2.5,63.5,firstname316,lastname316,1234568205,Registered
+31630815,TX,ALEDO,PARKER,30,Caucasian,2.5,35.1,firstname317,lastname317,1234568206,Registered
+13006029,TX,KYLE,HAYS,31,Caucasian,2.5,85.5,firstname318,lastname318,1234568207,Registered
+38298579,TX,ARLINGTON,TARRANT,28,African-American,2.5,78.4,firstname319,lastname319,1234568208,Unregistered
+38809696,TX,HOUSTON,HARRIS,40,Uncoded,2.5,89,firstname320,lastname320,1234568209,Unregistered
+27095494,TX,MCKINNEY,COLLIN,27,Caucasian,2.5,43.1,firstname321,lastname321,1234568210,Registered
+25190821,TX,GARLAND,DALLAS,44,Caucasian,2.5,64.3,firstname322,lastname322,1234568211,Registered
+29822872,TX,SCHERTZ,GUADALUPE,42,Caucasian,2.5,69.3,firstname323,lastname323,1234568212,Registered
+29592136,TX,SAN ANTONIO,BEXAR,28,Hispanic,2.5,67.9,firstname324,lastname324,1234568213,Registered
+29030178,TX,LIVE OAK,BEXAR,40,Caucasian,2.5,44.8,firstname325,lastname325,1234568214,Registered
+2987948,TX,HOUSTON,HARRIS,45,Caucasian,2.5,92.5,firstname326,lastname326,1234568215,Registered
+38692089,TX,MIDLAND,MIDLAND,32,Caucasian,2.5,24.1,firstname327,lastname327,1234568216,Unregistered
+38685878,TX,DALLAS,DALLAS,45,Hispanic,2.5,79.9,firstname328,lastname328,1234568217,Unregistered
+9573119,TX,HOCKLEY,WALLER,36,Caucasian,2.5,30.9,firstname329,lastname329,1234568218,Registered
+32214704,TX,AUBREY,DENTON,35,Caucasian,2.5,47.7,firstname330,lastname330,1234568219,Registered
+27369296,TX,CONROE,MONTGOMERY,27,Caucasian,2.5,43.7,firstname331,lastname331,1234568220,Registered
+13872738,TX,LAREDO,WEBB,44,Hispanic,2.5,57.5,firstname332,lastname332,1234568221,Unregistered
+9195235,TX,AUSTIN,TRAVIS,32,Uncoded,2.5,87.8,firstname333,lastname333,1234568222,Registered
+29130386,TX,LIVINGSTON,POLK,38,Caucasian,2.5,22.9,firstname334,lastname334,1234568223,Registered
+12100411,TX,FRIENDSWOOD,GALVESTON,32,Caucasian,2.5,79.2,firstname335,lastname335,1234568224,Registered
+1235810,TX,MANVEL,BRAZORIA,39,Caucasian,2.5,49.2,firstname336,lastname336,1234568225,Registered
+1274381,TX,RICHMOND,FORT BEND,37,Uncoded,2.5,72.1,firstname337,lastname337,1234568226,Registered
+27517060,TX,KRUGERVILLE,DENTON,31,Caucasian,2.5,57.2,firstname338,lastname338,1234568227,Registered
+28589377,TX,HOUSTON,HARRIS,42,Caucasian,2.5,75.9,firstname339,lastname339,1234568228,Registered
+11991194,TX,BIG SPRING,HOWARD,31,Caucasian,2.5,29.5,firstname340,lastname340,1234568229,Registered
+30438339,TX,SAN ANTONIO,BEXAR,32,Caucasian,2.5,80.6,firstname341,lastname341,1234568230,Registered
+29655780,TX,BEAUMONT,JEFFERSON,39,Caucasian,2.5,89.1,firstname342,lastname342,1234568231,Registered
+30067232,TX,MCKINNEY,COLLIN,32,Caucasian,2.5,56.6,firstname343,lastname343,1234568232,Registered
+11952368,TX,HOUSTON,HARRIS,31,African-American,2.5,86.9,firstname344,lastname344,1234568233,Registered
+2462486,TX,MCKINNEY,COLLIN,36,Caucasian,2.5,79.4,firstname345,lastname345,1234568234,Registered
+1097059,TX,SPRING,HARRIS,34,Caucasian,2.5,87.9,firstname346,lastname346,1234568235,Registered
+12204987,TX,FORT WORTH,TARRANT,31,Caucasian,2.5,16.6,firstname347,lastname347,1234568236,Registered
+38325473,TX,GARLAND,DALLAS,32,Hispanic,2.5,50.7,firstname348,lastname348,1234568237,Unregistered
+10504544,TX,KIRBYVILLE,JASPER,38,Hispanic,2.5,71.6,firstname349,lastname349,1234568238,Registered
+8809579,TX,POINTBLANK,SAN JACINTO,34,Caucasian,2.5,10.7,firstname350,lastname350,1234568239,Registered
+13146688,TX,SAN ANTONIO,BEXAR,29,Caucasian,2.5,73.5,firstname351,lastname351,1234568240,Registered
+15232176,TX,HOUSTON,HARRIS,43,African-American,2.5,89.1,firstname352,lastname352,1234568241,Unregistered
+29557057,TX,DENTON,DENTON,25,Caucasian,2.5,87.1,firstname353,lastname353,1234568242,Registered
+6347603,TX,HOUSTON,HARRIS,35,Caucasian,2.5,41.7,firstname354,lastname354,1234568243,Registered
+33699802,TX,ROUND ROCK,WILLIAMSON,22,Hispanic,2.5,76.5,firstname355,lastname355,1234568244,Registered
+24977586,TX,ARLINGTON,TARRANT,28,Caucasian,2.5,18.9,firstname356,lastname356,1234568245,Registered
+2425985,TX,SANDIA,JIM WELLS,38,Caucasian,2.5,13.2,firstname357,lastname357,1234568246,Registered
+27229638,TX,ROUND ROCK,WILLIAMSON,43,Caucasian,2.5,57.8,firstname358,lastname358,1234568247,Registered
+3359782,TX,WEATHERFORD,PARKER,39,Caucasian,2.5,25.8,firstname359,lastname359,1234568248,Registered
+25312411,TX,AUSTIN,TRAVIS,27,Asian,2.5,79.2,firstname360,lastname360,1234568249,Registered
+30833689,TX,EULESS,TARRANT,38,African-American,2.5,89.8,firstname361,lastname361,1234568250,Registered
+23614272,TX,ABILENE,JONES,33,Caucasian,2.5,25.5,firstname362,lastname362,1234568251,Registered
+13000589,TX,MCALLEN,HIDALGO,30,Uncoded,2.5,65.5,firstname363,lastname363,1234568252,Registered
+25269807,TX,CARROLLTON,DENTON,34,Caucasian,2.5,59.1,firstname364,lastname364,1234568253,Registered
+11258824,TX,LAKE JACKSON,BRAZORIA,32,Caucasian,2.5,39.5,firstname365,lastname365,1234568254,Registered
+31045509,TX,DALLAS,DALLAS,33,Caucasian,2.6,64.4,firstname366,lastname366,1234568255,Registered
+30891616,TX,PLANO,COLLIN,32,Caucasian,2.6,80,firstname367,lastname367,1234568256,Registered
+29116809,TX,GARLAND,DALLAS,29,Hispanic,2.6,84.7,firstname368,lastname368,1234568257,Registered
+34786236,TX,BELTON,BELL,38,Caucasian,2.6,42.8,firstname369,lastname369,1234568258,Registered
+14403365,TX,DALLAS,DALLAS,43,African-American,2.6,59.8,firstname370,lastname370,1234568259,Unregistered
+31535744,TX,SAN ANTONIO,BEXAR,23,Hispanic,2.6,57.4,firstname371,lastname371,1234568260,Registered
+31394705,TX,CARROLLTON,DALLAS,42,Caucasian,2.6,25.9,firstname372,lastname372,1234568261,Registered
+5218348,TX,DALLAS,DALLAS,33,Caucasian,2.6,82.8,firstname373,lastname373,1234568262,Registered
+25188379,TX,NAVASOTA,GRIMES,44,Caucasian,2.6,30.7,firstname374,lastname374,1234568263,Registered
+34319979,TX,KILLEEN,BELL,31,Caucasian,2.6,28,firstname375,lastname375,1234568264,Registered
+21830269,TX,THE WOODLANDS,MONTGOMERY,44,Caucasian,2.6,42.2,firstname376,lastname376,1234568265,Registered
+3512312,TX,COLLEYVILLE,TARRANT,35,Caucasian,2.6,69.3,firstname377,lastname377,1234568266,Registered
+30322827,TX,HOUSTON,HARRIS,19,Caucasian,2.6,56.2,firstname378,lastname378,1234568267,Unregistered
+38278560,TX,SAN DIEGO,DUVAL,21,Hispanic,2.6,49.7,firstname379,lastname379,1234568268,Unregistered
+10845337,TX,YORKTOWN,DEWITT,33,Hispanic,2.6,6.5,firstname380,lastname380,1234568269,Registered
+31824990,TX,HOUSTON,HARRIS,30,Caucasian,2.6,66.7,firstname381,lastname381,1234568270,Registered
+10937245,TX,SOUTHLAKE,TARRANT,43,Caucasian,2.6,28.1,firstname382,lastname382,1234568271,Registered
+9983020,TX,FLOWER MOUND,DENTON,43,Caucasian,2.6,95.8,firstname383,lastname383,1234568272,Registered
+30337367,TX,MIDLAND,MIDLAND,32,Caucasian,2.6,57.5,firstname384,lastname384,1234568273,Registered
+30166414,TX,SAN ANTONIO,BEXAR,36,Caucasian,2.6,48.1,firstname385,lastname385,1234568274,Registered
+7390460,TX,HIGHLAND VILLAGE,DENTON,32,Caucasian,2.6,47.9,firstname386,lastname386,1234568275,Registered
+24015068,TX,BEAUMONT,JEFFERSON,45,African-American,2.6,95.8,firstname387,lastname387,1234568276,Unregistered
+39284003,TX,PHARR,HIDALGO,25,Hispanic,2.6,60.3,firstname388,lastname388,1234568277,Unregistered
+32975301,TX,AUSTIN,TRAVIS,32,Caucasian,2.6,81.5,firstname389,lastname389,1234568278,Registered
+29526888,TX,FORT WORTH,TARRANT,39,Caucasian,2.6,71,firstname390,lastname390,1234568279,Registered
+40167664,TX,WACO,MCLENNAN,37,African-American,2.6,79.9,firstname391,lastname391,1234568280,Unregistered
+23208757,TX,HOUSTON,HARRIS,43,African-American,2.6,85.4,firstname392,lastname392,1234568281,Unregistered
+38641347,TX,AUSTIN,TRAVIS,22,Hispanic,2.6,56.1,firstname393,lastname393,1234568282,Unregistered
+12860611,TX,UVALDE,UVALDE,35,Hispanic,2.6,27.9,firstname394,lastname394,1234568283,Registered
+31435273,TX,LAKE DALLAS,DENTON,34,African-American,2.6,93,firstname395,lastname395,1234568284,Registered
+27269890,TX,LITTLE ELM,DENTON,36,Caucasian,2.6,66.8,firstname396,lastname396,1234568285,Registered
+35886446,TX,SOUTHLAKE,TARRANT,37,Caucasian,2.6,82,firstname397,lastname397,1234568286,Registered
+10955935,TX,EL PASO,EL PASO,45,Hispanic,2.6,89.6,firstname398,lastname398,1234568287,Registered
+32042990,TX,KEMP,KAUFMAN,23,Caucasian,2.6,60.4,firstname399,lastname399,1234568288,Registered
+27348606,TX,LEAGUE CITY,GALVESTON,44,Caucasian,2.6,60.6,firstname400,lastname400,1234568289,Registered
+30353685,TX,ROUND ROCK,WILLIAMSON,32,Caucasian,2.6,82.1,firstname401,lastname401,1234568290,Registered
+32062941,TX,FARMERSVILLE,COLLIN,39,Caucasian,2.6,67.4,firstname402,lastname402,1234568291,Registered
+27075945,TX,PROSPER,COLLIN,27,Caucasian,2.6,42.2,firstname403,lastname403,1234568292,Registered
+37160444,TX,KATY,HARRIS,40,Caucasian,2.6,28.7,firstname404,lastname404,1234568293,Unregistered
+23704836,TX,KATY,HARRIS,23,Hispanic,2.6,39.3,firstname405,lastname405,1234568294,Unregistered
+27023923,TX,KILLEEN,BELL,33,Caucasian,2.6,58.4,firstname406,lastname406,1234568295,Registered
+11690420,TX,SHADY SHORES,DENTON,34,Caucasian,2.6,9.4,firstname407,lastname407,1234568296,Registered
+13471183,TX,KYLE,HAYS,35,Caucasian,2.6,54.5,firstname408,lastname408,1234568297,Registered
+34315579,TX,NEDERLAND,JEFFERSON,28,Caucasian,2.6,42.4,firstname409,lastname409,1234568298,Registered
+38167546,TX,KILLEEN,BELL,35,Uncoded,2.6,91.3,firstname410,lastname410,1234568299,Unregistered
+26595219,TX,DRIPPING SPRINGS,HAYS,30,Caucasian,2.6,60,firstname411,lastname411,1234568300,Registered
+788206,TX,KILLEEN,BELL,39,African-American,2.6,68,firstname412,lastname412,1234568301,Unregistered
+28836047,TX,KILLEEN,BELL,33,African-American,2.6,84.7,firstname413,lastname413,1234568302,Registered
+34864176,TX,AUSTIN,TRAVIS,28,Caucasian,2.6,74.1,firstname414,lastname414,1234568303,Registered
+20707886,TX,FORT WORTH,TARRANT,28,Caucasian,2.6,42.8,firstname415,lastname415,1234568304,Registered
+31347281,TX,PLANO,COLLIN,37,Caucasian,2.6,70.1,firstname416,lastname416,1234568305,Registered
+11676871,TX,CORPUS CHRISTI,NUECES,31,Caucasian,2.6,54.4,firstname417,lastname417,1234568306,Registered
+32367579,TX,DALLAS,DALLAS,37,Caucasian,2.6,70.2,firstname418,lastname418,1234568307,Registered
+39089436,TX,MISSION,HIDALGO,27,Hispanic,2.6,78.5,firstname419,lastname419,1234568308,Unregistered
+12288063,TX,SAN ANTONIO,BEXAR,33,Caucasian,2.6,62.2,firstname420,lastname420,1234568309,Registered
+26664178,TX,DALLAS,DALLAS,39,Caucasian,2.6,96.1,firstname421,lastname421,1234568310,Registered
+27282626,TX,YOAKUM,LAVACA,31,Uncoded,2.6,62.4,firstname422,lastname422,1234568311,Registered
+32292457,TX,SAN ANTONIO,BEXAR,29,Caucasian,2.6,64,firstname423,lastname423,1234568312,Registered
+31563227,TX,AUSTIN,TRAVIS,35,Caucasian,2.6,93.4,firstname424,lastname424,1234568313,Registered
+6118062,TX,PORT ARTHUR,JEFFERSON,43,African-American,2.6,96.5,firstname425,lastname425,1234568314,Unregistered
+25124688,TX,THORNDALE,MILAM,28,Caucasian,2.6,22.6,firstname426,lastname426,1234568315,Registered
+13187865,TX,AUSTIN,TRAVIS,33,Caucasian,2.6,86.2,firstname427,lastname427,1234568316,Registered
+4614162,TX,EL PASO,EL PASO,45,Hispanic,2.6,44.3,firstname428,lastname428,1234568317,Registered
+520859,TX,DALLAS,DALLAS,43,African-American,2.6,85.8,firstname429,lastname429,1234568318,Registered
+35415967,TX,HOUSTON,HARRIS,24,Caucasian,2.6,38.3,firstname430,lastname430,1234568319,Unregistered
+5324815,TX,PLANO,COLLIN,34,Caucasian,2.6,60.1,firstname431,lastname431,1234568320,Registered
+11148648,TX,RICHMOND,FORT BEND,38,Caucasian,2.6,50.6,firstname432,lastname432,1234568321,Registered
+27056217,TX,SAN ANTONIO,BEXAR,37,Caucasian,2.6,79.2,firstname433,lastname433,1234568322,Registered
+38217553,TX,PLANO,COLLIN,32,Caucasian,2.6,56.4,firstname434,lastname434,1234568323,Unregistered
+38393283,TX,KILLEEN,BELL,22,African-American,2.6,87.3,firstname435,lastname435,1234568324,Unregistered
+30260019,TX,DALLAS,DALLAS,21,Hispanic,2.6,80,firstname436,lastname436,1234568325,Unregistered
+32218677,TX,LUBBOCK,LUBBOCK,35,Caucasian,2.6,73.5,firstname437,lastname437,1234568326,Registered
+33983736,TX,STEPHENVILLE,ERATH,31,Caucasian,2.6,15.1,firstname438,lastname438,1234568327,Registered
+30386722,TX,SAN ANTONIO,BEXAR,33,Caucasian,2.6,21.8,firstname439,lastname439,1234568328,Registered
+30345826,TX,CONROE,MONTGOMERY,34,Caucasian,2.6,60,firstname440,lastname440,1234568329,Registered
+11944151,TX,FORT WORTH,TARRANT,31,Caucasian,2.6,15,firstname441,lastname441,1234568330,Registered
+4018695,TX,GARLAND,DALLAS,34,Caucasian,2.6,29.6,firstname442,lastname442,1234568331,Registered
+12675535,TX,SAN ANTONIO,BEXAR,37,Caucasian,2.6,88.2,firstname443,lastname443,1234568332,Registered
+13526501,TX,SAN ANGELO,TOM GREEN,32,Uncoded,2.6,76.6,firstname444,lastname444,1234568333,Registered
+27708184,TX,HONDO,MEDINA,36,Caucasian,2.6,41.5,firstname445,lastname445,1234568334,Registered
+33546298,TX,SUGAR LAND,FORT BEND,36,Caucasian,2.6,70.9,firstname446,lastname446,1234568335,Registered
+7235780,TX,PARADISE,WISE,43,Caucasian,2.6,43.2,firstname447,lastname447,1234568336,Registered
+30564599,TX,LUBBOCK,LUBBOCK,29,Caucasian,2.6,82.4,firstname448,lastname448,1234568337,Registered
+31009619,TX,CONROE,MONTGOMERY,35,Caucasian,2.6,21.7,firstname449,lastname449,1234568338,Registered
+10871167,TX,ALVIN,BRAZORIA,34,Caucasian,2.6,11.6,firstname450,lastname450,1234568339,Registered
+33566475,TX,GRAND PRAIRIE,TARRANT,39,Caucasian,2.6,45.5,firstname451,lastname451,1234568340,Registered
+31846754,TX,KATY,FORT BEND,44,Caucasian,2.6,49,firstname452,lastname452,1234568341,Registered
+6054166,TX,DEL RIO,VAL VERDE,41,Caucasian,2.6,17.2,firstname453,lastname453,1234568342,Registered
+26621222,TX,ALEDO,PARKER,27,Caucasian,2.6,47.7,firstname454,lastname454,1234568343,Registered
+41014816,TX,BORGER,HUTCHINSON,30,Caucasian,2.6,30.7,firstname455,lastname455,1234568344,Unregistered
+24962340,TX,SAN ANTONIO,BEXAR,36,Caucasian,2.6,65,firstname456,lastname456,1234568345,Registered
+31638069,TX,BEAUMONT,JEFFERSON,39,Caucasian,2.6,17.8,firstname457,lastname457,1234568346,Registered
+11013414,TX,GALVESTON,GALVESTON,32,Caucasian,2.6,50.2,firstname458,lastname458,1234568347,Registered
+4901168,TX,DONNA,HIDALGO,41,Hispanic,2.6,43.8,firstname459,lastname459,1234568348,Registered
+22700933,TX,CONVERSE,BEXAR,32,Uncoded,2.6,91.9,firstname460,lastname460,1234568349,Registered
+38688173,TX,ODESSA,ECTOR,24,Hispanic,2.6,66.5,firstname461,lastname461,1234568350,Unregistered
+5581600,TX,MISSOURI CITY,FORT BEND,41,Caucasian,2.6,60.9,firstname462,lastname462,1234568351,Registered
+32326422,TX,WATAUGA,TARRANT,36,Caucasian,2.6,38.6,firstname463,lastname463,1234568352,Registered
+12666486,TX,ANDREWS,ANDREWS,35,Hispanic,2.6,65.5,firstname464,lastname464,1234568353,Registered
+6374301,TX,MONTGOMERY,MONTGOMERY,34,Caucasian,2.6,49.3,firstname465,lastname465,1234568354,Registered
+30231026,TX,TYLER,SMITH,41,Caucasian,2.6,47.6,firstname466,lastname466,1234568355,Registered
+3964687,TX,FREDERICKSBURG,GILLESPIE,38,Caucasian,2.6,13.6,firstname467,lastname467,1234568356,Registered
+31687484,TX,DALLAS,DALLAS,23,African-American,2.6,91.1,firstname468,lastname468,1234568357,Registered
+31112771,TX,LANCASTER,DALLAS,30,African-American,2.6,88.5,firstname469,lastname469,1234568358,Registered
+7442450,TX,THE COLONY,DENTON,41,African-American,2.6,73.2,firstname470,lastname470,1234568359,Registered
+33042635,TX,LEAGUE CITY,GALVESTON,31,Caucasian,2.6,56.3,firstname471,lastname471,1234568360,Registered
+625704,TX,DALLAS,DALLAS,45,African-American,2.6,89.5,firstname472,lastname472,1234568361,Unregistered
+30047719,TX,HOUSTON,HARRIS,28,Caucasian,2.6,34.5,firstname473,lastname473,1234568362,Registered
+27236085,TX,ROUND ROCK,WILLIAMSON,33,Uncoded,2.6,39.3,firstname474,lastname474,1234568363,Registered
+38245361,TX,HOUSTON,HARRIS,23,Hispanic,2.6,39.1,firstname475,lastname475,1234568364,Unregistered
+29010880,TX,KATY,HARRIS,42,Caucasian,2.6,54.8,firstname476,lastname476,1234568365,Registered
+8362341,TX,BECKVILLE,PANOLA,41,African-American,2.6,68.7,firstname477,lastname477,1234568366,Registered
+35458172,TX,GEORGETOWN,WILLIAMSON,27,African-American,2.6,81.7,firstname478,lastname478,1234568367,Unregistered
+25057474,TX,ABILENE,TAYLOR,28,Caucasian,2.6,69.4,firstname479,lastname479,1234568368,Registered
+34896012,TX,CLEBURNE,JOHNSON,24,Caucasian,2.6,40.4,firstname480,lastname480,1234568369,Registered
+6286095,TX,BURKBURNETT,WICHITA,41,Caucasian,2.6,89.5,firstname481,lastname481,1234568370,Registered
+5164883,TX,MESQUITE,DALLAS,44,Caucasian,2.6,34.4,firstname482,lastname482,1234568371,Registered
+10885512,TX,PORT NECHES,JEFFERSON,43,Caucasian,2.6,19,firstname483,lastname483,1234568372,Registered
+1938663,TX,CONROE,MONTGOMERY,39,Caucasian,2.6,90.5,firstname484,lastname484,1234568373,Registered
+13827519,TX,HOUSTON,FORT BEND,19,Hispanic,2.6,65.6,firstname485,lastname485,1234568374,Unregistered
+20740223,TX,SAN ANTONIO,BEXAR,28,Caucasian,2.6,31.2,firstname486,lastname486,1234568375,Registered
+24948156,TX,ARLINGTON,TARRANT,28,Caucasian,2.6,59.6,firstname487,lastname487,1234568376,Registered
+27021351,TX,FORT SAM HOUSTON,BEXAR,37,Caucasian,2.6,61.9,firstname488,lastname488,1234568377,Registered
+38468624,TX,HOUSTON,HARRIS,21,Uncoded,2.6,41.7,firstname489,lastname489,1234568378,Unregistered
+6451496,TX,COLLEGE STATION,BRAZOS,33,Caucasian,2.6,15.3,firstname490,lastname490,1234568379,Registered
+31005704,TX,PLANO,COLLIN,33,Caucasian,2.6,84.9,firstname491,lastname491,1234568380,Registered
+23705527,TX,HOUSTON,HARRIS,39,Caucasian,2.6,49.6,firstname492,lastname492,1234568381,Unregistered
+12860754,TX,HOUSTON,HARRIS,30,Caucasian,2.6,72.4,firstname493,lastname493,1234568382,Registered
+33120050,TX,FORT WORTH,TARRANT,30,Caucasian,2.6,74.9,firstname494,lastname494,1234568383,Registered
+2553607,TX,AUSTIN,TRAVIS,36,Caucasian,2.6,65.4,firstname495,lastname495,1234568384,Registered
+31335886,TX,AUSTIN,TRAVIS,32,Uncoded,2.6,93.1,firstname496,lastname496,1234568385,Registered
+27126637,TX,GARLAND,DALLAS,29,Caucasian,2.6,43.4,firstname497,lastname497,1234568386,Registered
+11609734,TX,SAN ANTONIO,BEXAR,32,Caucasian,2.6,32.9,firstname498,lastname498,1234568387,Registered
+1798391,TX,GIDDINGS,LEE,44,Caucasian,2.6,17.2,firstname499,lastname499,1234568388,Registered
+9262393,TX,SAN ANTONIO,BEXAR,44,Hispanic,2.6,63.1,firstname500,lastname500,1234568389,Registered
+12219253,TX,FORT WORTH,TARRANT,35,African-American,2.6,85.2,firstname501,lastname501,1234568390,Registered
+24921105,TX,GRAPEVINE,TARRANT,32,Caucasian,2.6,78.7,firstname502,lastname502,1234568391,Registered
+25007423,TX,HOUSTON,HARRIS,37,Caucasian,2.6,64.6,firstname503,lastname503,1234568392,Registered
+4602542,TX,EL PASO,EL PASO,40,Hispanic,2.6,68.2,firstname504,lastname504,1234568393,Registered
+32292045,TX,DALLAS,DALLAS,32,Caucasian,2.6,48,firstname505,lastname505,1234568394,Registered
+25165320,TX,WEATHERFORD,PARKER,28,Caucasian,2.6,30.7,firstname506,lastname506,1234568395,Registered
+1538912,TX,PASADENA,HARRIS,39,Caucasian,2.6,38.6,firstname507,lastname507,1234568396,Registered
+29153225,TX,MT PLEASANT,TITUS,25,Caucasian,2.6,21.9,firstname508,lastname508,1234568397,Registered
+30304966,TX,KATY,HARRIS,29,Uncoded,2.6,70.2,firstname509,lastname509,1234568398,Registered
+3317561,TX,SAN ANGELO,TOM GREEN,43,Caucasian,2.6,63.5,firstname510,lastname510,1234568399,Registered
+34194156,TX,SAN MARCOS,HAYS,38,Caucasian,2.6,38.8,firstname511,lastname511,1234568400,Registered
+11354291,TX,EL PASO,EL PASO,37,Caucasian,2.6,34.7,firstname512,lastname512,1234568401,Registered
+29906859,TX,FORT WORTH,TARRANT,42,Caucasian,2.6,47.4,firstname513,lastname513,1234568402,Registered
+25288175,TX,DENISON,GRAYSON,27,Caucasian,2.6,8.2,firstname514,lastname514,1234568403,Registered
+38181361,TX,ATHENS,HENDERSON,39,Hispanic,2.6,35.6,firstname515,lastname515,1234568404,Unregistered
+11294526,TX,HOUSTON,HARRIS,37,African-American,2.6,53.8,firstname516,lastname516,1234568405,Registered
+15998513,TX,ABILENE,TAYLOR,40,Caucasian,2.6,57.4,firstname517,lastname517,1234568406,Registered
+27084342,TX,COLLEGE STATION,BRAZOS,29,Hispanic,2.6,39.6,firstname518,lastname518,1234568407,Registered
+40505235,TX,CARROLLTON,DENTON,44,Asian,2.6,85,firstname519,lastname519,1234568408,Unregistered
+13174899,TX,COLLEGE STATION,BRAZOS,29,Caucasian,2.6,41.2,firstname520,lastname520,1234568409,Registered
+11563805,TX,HOUSTON,HARRIS,42,Caucasian,2.6,43.5,firstname521,lastname521,1234568410,Registered
+33471799,TX,MISSION,HIDALGO,45,Hispanic,2.6,44.6,firstname522,lastname522,1234568411,Unregistered
+6308010,TX,GALVESTON,GALVESTON,37,Caucasian,2.6,82.2,firstname523,lastname523,1234568412,Registered
+27446930,TX,CORPUS CHRISTI,NUECES,31,Hispanic,2.6,36.8,firstname524,lastname524,1234568413,Registered
+10912315,TX,BAYTOWN,CHAMBERS,43,Caucasian,2.6,48.9,firstname525,lastname525,1234568414,Registered
+4391577,TX,EL PASO,EL PASO,44,Caucasian,2.6,31.7,firstname526,lastname526,1234568415,Registered
+39114390,TX,DALLAS,DALLAS,44,Hispanic,2.6,48.5,firstname527,lastname527,1234568416,Unregistered
+10945832,TX,SANGER,DENTON,41,Caucasian,2.6,9.5,firstname528,lastname528,1234568417,Registered
+27738107,TX,GRANBURY,HOOD,40,Caucasian,2.6,63,firstname529,lastname529,1234568418,Registered
+27728887,TX,RICHMOND,FORT BEND,38,Caucasian,2.6,37.9,firstname530,lastname530,1234568419,Registered
+16463350,TX,ARLINGTON,TARRANT,45,Hispanic,2.6,54,firstname531,lastname531,1234568420,Unregistered
+12002109,TX,TEXARKANA,BOWIE,34,African-American,2.6,47.1,firstname532,lastname532,1234568421,Registered
+32202579,TX,HOUSTON,HARRIS,43,Caucasian,2.6,92.1,firstname533,lastname533,1234568422,Registered
+34375988,TX,HOUSTON,HARRIS,33,African-American,2.6,33.8,firstname534,lastname534,1234568423,Registered
+33114724,TX,LUBBOCK,LUBBOCK,24,Caucasian,2.6,69.1,firstname535,lastname535,1234568424,Registered
+4182871,TX,SHERMAN,GRAYSON,41,Caucasian,2.6,11.5,firstname536,lastname536,1234568425,Registered
+28724374,TX,SAN ANTONIO,BEXAR,30,Caucasian,2.6,77.5,firstname537,lastname537,1234568426,Registered
+5857556,TX,PASADENA,HARRIS,40,Uncoded,2.6,40.6,firstname538,lastname538,1234568427,Registered
+30289691,TX,BELTON,BELL,45,Hispanic,2.6,57.8,firstname539,lastname539,1234568428,Unregistered
+39153530,TX,WESLACO,HIDALGO,24,Hispanic,2.6,68.2,firstname540,lastname540,1234568429,Unregistered
+11482225,TX,DALLAS,DENTON,39,African-American,2.6,83.1,firstname541,lastname541,1234568430,Registered
+13210856,TX,AMARILLO,RANDALL,38,Hispanic,2.6,37.8,firstname542,lastname542,1234568431,Registered
+24978644,TX,AUSTIN,TRAVIS,28,Caucasian,2.6,70.5,firstname543,lastname543,1234568432,Registered
+38960567,TX,CORP CHRISTI,NUECES,43,Hispanic,2.6,63.2,firstname544,lastname544,1234568433,Unregistered
+3946715,TX,TEXAS CITY,GALVESTON,33,Caucasian,2.6,50.4,firstname545,lastname545,1234568434,Registered
+27301236,TX,LUBBOCK,LUBBOCK,28,Caucasian,2.6,22.8,firstname546,lastname546,1234568435,Registered
+4545732,TX,EL PASO,EL PASO,38,Caucasian,2.6,51.1,firstname547,lastname547,1234568436,Registered
+31913988,TX,WYLIE,COLLIN,36,Caucasian,2.6,79.2,firstname548,lastname548,1234568437,Registered
+34590268,TX,DALLAS,DALLAS,41,Hispanic,2.6,54.2,firstname549,lastname549,1234568438,Unregistered
+3340146,TX,FORT WORTH,TARRANT,34,Caucasian,2.6,29.3,firstname550,lastname550,1234568439,Registered
+32176282,TX,SAN MARCOS,HAYS,24,Caucasian,2.6,70,firstname551,lastname551,1234568440,Registered
+3374941,TX,FORT WORTH,TARRANT,37,Caucasian,2.6,90.1,firstname552,lastname552,1234568441,Registered
+28748870,TX,TYLER,SMITH,38,Caucasian,2.6,56.5,firstname553,lastname553,1234568442,Registered
+5052824,TX,GRAND PRAIRIE,DALLAS,37,Caucasian,2.6,65.7,firstname554,lastname554,1234568443,Registered
+13037432,TX,CHANNELVIEW,HARRIS,29,Caucasian,2.6,28.9,firstname555,lastname555,1234568444,Registered
+1205472,TX,BAYTOWN,HARRIS,33,Caucasian,2.6,41.6,firstname556,lastname556,1234568445,Registered
+9664477,TX,SAN ANTONIO,BEXAR,42,Caucasian,2.6,73,firstname557,lastname557,1234568446,Registered
+38250712,TX,DALLAS,DALLAS,42,Hispanic,2.6,65.5,firstname558,lastname558,1234568447,Unregistered
+37377880,TX,AMARILLO,POTTER,44,Caucasian,2.6,10.2,firstname559,lastname559,1234568448,Unregistered
+7109958,TX,WILLS POINT,VAN ZANDT,45,Caucasian,2.6,6.3,firstname560,lastname560,1234568449,Registered
+40242199,TX,HOUSTON,HARRIS,29,Caucasian,2.6,77.1,firstname561,lastname561,1234568450,Unregistered
+28684735,TX,SHEPPARD AFB,WICHITA,36,Caucasian,2.6,42.3,firstname562,lastname562,1234568451,Registered
+15179687,TX,WEBSTER,HARRIS,37,Caucasian,2.6,81,firstname563,lastname563,1234568452,Registered
+31843085,TX,HOUSTON,HARRIS,32,Caucasian,2.6,79.2,firstname564,lastname564,1234568453,Registered
+12888886,TX,MIDLOTHIAN,ELLIS,30,Caucasian,2.6,56.2,firstname565,lastname565,1234568454,Registered
+9269709,TX,LUBBOCK,LUBBOCK,37,Hispanic,2.6,38.6,firstname566,lastname566,1234568455,Registered
+31838590,TX,HEARTLAND,KAUFMAN,30,Uncoded,2.6,74.8,firstname567,lastname567,1234568456,Registered
+30932774,TX,CORPUS CHRISTI,NUECES,34,Caucasian,2.6,85.8,firstname568,lastname568,1234568457,Registered
+31932950,TX,AUSTIN,TRAVIS,32,Caucasian,2.6,77.5,firstname569,lastname569,1234568458,Registered
+40482574,TX,LEWISVILLE,DENTON,34,Asian,2.6,47.8,firstname570,lastname570,1234568459,Unregistered
+11005229,TX,CELINA,COLLIN,41,Caucasian,2.6,18.6,firstname571,lastname571,1234568460,Registered
+3074248,TX,DAYTON,LIBERTY,37,Caucasian,2.6,35.1,firstname572,lastname572,1234568461,Registered
+1871176,TX,PORT ARTHUR,JEFFERSON,33,Caucasian,2.6,16.5,firstname573,lastname573,1234568462,Registered
+13231245,TX,HOUSTON,HARRIS,43,Hispanic,2.6,35.7,firstname574,lastname574,1234568463,Unregistered
+33549874,TX,KINGSVILLE,KLEBERG,20,Hispanic,2.6,70.9,firstname575,lastname575,1234568464,Unregistered
+11394500,TX,FRIENDSWOOD,HARRIS,32,Caucasian,2.6,89.2,firstname576,lastname576,1234568465,Registered
+1953128,TX,PORT ARTHUR,JEFFERSON,36,Caucasian,2.6,66.5,firstname577,lastname577,1234568466,Registered
+40512760,TX,BURLESON,TARRANT,26,Asian,2.6,77.4,firstname578,lastname578,1234568467,Unregistered
+5684194,TX,IRVING,DALLAS,34,Caucasian,2.6,22.1,firstname579,lastname579,1234568468,Registered
+31578897,TX,DALLAS,DALLAS,29,Caucasian,2.6,70.8,firstname580,lastname580,1234568469,Registered
+39100715,TX,FORT WORTH,TARRANT,36,Uncoded,2.6,66.8,firstname581,lastname581,1234568470,Unregistered
+27582060,TX,DALLAS,COLLIN,35,Caucasian,2.6,12.7,firstname582,lastname582,1234568471,Registered
+2556702,TX,AUSTIN,TRAVIS,35,Caucasian,2.6,80.6,firstname583,lastname583,1234568472,Registered
+31886585,TX,MISSOURI CITY,FORT BEND,31,Caucasian,2.6,46.8,firstname584,lastname584,1234568473,Registered
+11142482,TX,WEATHERFORD,PARKER,32,Caucasian,2.6,39,firstname585,lastname585,1234568474,Registered
+32350512,TX,FORT WORTH,TARRANT,40,Caucasian,2.6,65.1,firstname586,lastname586,1234568475,Registered
+27494664,TX,FORT WORTH,TARRANT,38,Caucasian,2.6,73.1,firstname587,lastname587,1234568476,Registered
+27006768,TX,CARROLLTON,DALLAS,33,Caucasian,2.6,8.5,firstname588,lastname588,1234568477,Registered
+28040157,TX,BAYTOWN,CHAMBERS,26,Caucasian,2.6,22.7,firstname589,lastname589,1234568478,Registered
+11634598,TX,SAN ANTONIO,BEXAR,33,Caucasian,2.6,32.5,firstname590,lastname590,1234568479,Registered
+31977046,TX,EL PASO,EL PASO,25,Caucasian,2.6,66.3,firstname591,lastname591,1234568480,Registered
+11902620,TX,SPRINGTOWN,PARKER,34,Caucasian,2.6,18.4,firstname592,lastname592,1234568481,Registered
+9994983,TX,SAN ANTONIO,BEXAR,43,Caucasian,2.6,74.2,firstname593,lastname593,1234568482,Registered
+12820624,TX,HOUSTON,HARRIS,39,African-American,2.6,82.5,firstname594,lastname594,1234568483,Registered
+33787329,TX,AUSTIN,TRAVIS,33,Caucasian,2.6,86.4,firstname595,lastname595,1234568484,Registered
+31778261,TX,FORT SAM HOUSTON,BEXAR,33,Caucasian,2.6,73.5,firstname596,lastname596,1234568485,Registered
+10089022,TX,PITTSBURG,MORRIS,38,African-American,2.6,94.9,firstname597,lastname597,1234568486,Registered
+13534397,TX,RICHWOOD,BRAZORIA,40,Caucasian,2.6,31.8,firstname598,lastname598,1234568487,Registered
+27505505,TX,ARLINGTON,TARRANT,38,Caucasian,2.6,51.6,firstname599,lastname599,1234568488,Registered
+33851532,TX,CLEVELAND,SAN JACINTO,21,Hispanic,2.6,25.4,firstname600,lastname600,1234568489,Unregistered
+31974167,TX,IRVING,DALLAS,38,Caucasian,2.6,80.7,firstname601,lastname601,1234568490,Registered
+30901036,TX,ROSHARON,BRAZORIA,41,Caucasian,2.6,38.6,firstname602,lastname602,1234568491,Registered
+32075561,TX,AUSTIN,TRAVIS,34,Caucasian,2.6,92.1,firstname603,lastname603,1234568492,Registered
+8925058,TX,HUNTINGTON,ANGELINA,37,Caucasian,2.6,4.6,firstname604,lastname604,1234568493,Registered
+30411905,TX,SOUTHLAKE,TARRANT,24,Caucasian,2.6,65.8,firstname605,lastname605,1234568494,Registered
+28112883,TX,SUGAR LAND,FORT BEND,33,Caucasian,2.6,97.3,firstname606,lastname606,1234568495,Registered
+27217659,TX,GRANBURY,HOOD,32,Caucasian,2.6,32.5,firstname607,lastname607,1234568496,Registered
+29093424,TX,LEWISVILLE,DENTON,40,Caucasian,2.6,61.3,firstname608,lastname608,1234568497,Registered
+33147787,TX,ALVIN,BRAZORIA,23,Caucasian,2.6,19,firstname609,lastname609,1234568498,Registered
+38924948,TX,HUMBLE,HARRIS,37,African-American,2.6,87.2,firstname610,lastname610,1234568499,Unregistered
+31589833,TX,MCKINNEY,COLLIN,41,Caucasian,2.6,74.3,firstname611,lastname611,1234568500,Registered
+31221726,TX,FATE,ROCKWALL,32,African-American,2.6,61.2,firstname612,lastname612,1234568501,Registered
+25410137,TX,CEDAR PARK,WILLIAMSON,28,Caucasian,2.6,57.5,firstname613,lastname613,1234568502,Registered
+32743008,TX,LEAGUE CITY,GALVESTON,44,Caucasian,2.6,61,firstname614,lastname614,1234568503,Registered
+38470677,TX,SAN ANTONIO,BEXAR,26,Hispanic,2.6,90,firstname615,lastname615,1234568504,Unregistered
+5529763,TX,DALLAS,DALLAS,38,Caucasian,2.6,96.3,firstname616,lastname616,1234568505,Registered
+29352404,TX,MCKINNEY,COLLIN,39,Caucasian,2.6,50.3,firstname617,lastname617,1234568506,Registered
+20664723,TX,MIDLAND,MIDLAND,28,Uncoded,2.6,36.1,firstname618,lastname618,1234568507,Registered
+11192040,TX,NEW WAVERLY,WALKER,40,Caucasian,2.6,29.7,firstname619,lastname619,1234568508,Registered
+21687217,TX,AUSTIN,TRAVIS,27,Hispanic,2.6,89.7,firstname620,lastname620,1234568509,Unregistered
+2851501,TX,DEER PARK,HARRIS,37,Hispanic,2.6,66.9,firstname621,lastname621,1234568510,Registered
+32371687,TX,SAN ANTONIO,BEXAR,40,Caucasian,2.6,86.3,firstname622,lastname622,1234568511,Registered
+30779069,TX,PLANO,COLLIN,42,Caucasian,2.6,76.8,firstname623,lastname623,1234568512,Registered
+26592056,TX,CONROE,MONTGOMERY,38,Asian,2.6,67.7,firstname624,lastname624,1234568513,Registered
+12111031,TX,SEGUIN,GUADALUPE,32,Hispanic,2.6,49,firstname625,lastname625,1234568514,Registered
+6143544,TX,RICHARDSON,COLLIN,36,Caucasian,2.6,27.2,firstname626,lastname626,1234568515,Registered
+30542533,TX,THORNTON,LIMESTONE,29,Caucasian,2.6,39.6,firstname627,lastname627,1234568516,Registered
+36511354,TX,LULING,CALDWELL,44,Caucasian,2.6,9.8,firstname628,lastname628,1234568517,Unregistered
+13603438,TX,AUSTIN,TRAVIS,39,Caucasian,2.6,82.3,firstname629,lastname629,1234568518,Registered
+13700621,TX,DALLAS,DALLAS,45,Hispanic,2.6,67,firstname630,lastname630,1234568519,Unregistered
+38544516,TX,SEGUIN,GUADALUPE,42,Hispanic,2.6,28.7,firstname631,lastname631,1234568520,Unregistered
+13078661,TX,TOMBALL,HARRIS,36,Caucasian,2.6,32.9,firstname632,lastname632,1234568521,Registered
+9975750,TX,RICHMOND,FORT BEND,40,Caucasian,2.6,6.1,firstname633,lastname633,1234568522,Registered
+29964130,TX,SAN ANTONIO,BEXAR,44,Caucasian,2.6,75.7,firstname634,lastname634,1234568523,Registered
+30950843,TX,FORT BLISS,EL PASO,41,Caucasian,2.6,52.5,firstname635,lastname635,1234568524,Registered
+9163549,TX,BAYTOWN,HARRIS,40,African-American,2.6,69.6,firstname636,lastname636,1234568525,Registered
+12144496,TX,MISSOURI CITY,FORT BEND,33,African-American,2.6,84.6,firstname637,lastname637,1234568526,Registered
+31834654,TX,CLEBURNE,JOHNSON,30,Caucasian,2.6,84.3,firstname638,lastname638,1234568527,Registered
+31330172,TX,GRAND PRAIRIE,DALLAS,25,Caucasian,2.6,71.3,firstname639,lastname639,1234568528,Registered
+6817153,TX,HOUSTON,HARRIS,43,Caucasian,2.6,48.8,firstname640,lastname640,1234568529,Registered
+4441009,TX,ABILENE,TAYLOR,33,Caucasian,2.6,51.6,firstname641,lastname641,1234568530,Registered
+7054068,TX,NEVADA,COLLIN,41,Caucasian,2.6,75.9,firstname642,lastname642,1234568531,Registered
+4161565,TX,ENNIS,ELLIS,34,Hispanic,2.6,28.9,firstname643,lastname643,1234568532,Registered
+30821100,TX,HOUSTON,HARRIS,28,Hispanic,2.6,77.7,firstname644,lastname644,1234568533,Registered
+7884698,TX,BURKBURNETT,WICHITA,38,Caucasian,2.6,5.1,firstname645,lastname645,1234568534,Registered
+29506118,TX,BRYAN,BRAZOS,24,Hispanic,2.6,21.5,firstname646,lastname646,1234568535,Registered
+8507615,TX,JEFFERSON,MARION,44,Caucasian,2.6,25.7,firstname647,lastname647,1234568536,Registered
+7284026,TX,WACO,MCLENNAN,34,African-American,2.6,90.3,firstname648,lastname648,1234568537,Registered
+11612944,TX,RICHMOND,FORT BEND,32,Uncoded,2.6,63.7,firstname649,lastname649,1234568538,Registered
+34677418,TX,ROUND ROCK,WILLIAMSON,41,Asian,2.6,67,firstname650,lastname650,1234568539,Registered
+25157416,TX,DALLAS,DALLAS,27,Caucasian,2.6,52.4,firstname651,lastname651,1234568540,Registered
+34175758,TX,SAN ANTONIO,BEXAR,41,Hispanic,2.6,30,firstname652,lastname652,1234568541,Unregistered
+25044932,TX,BEAUMONT,JEFFERSON,27,African-American,2.6,97,firstname653,lastname653,1234568542,Registered
+12045767,TX,HUMBLE,HARRIS,31,Caucasian,2.6,24.7,firstname654,lastname654,1234568543,Registered
+36224177,TX,BALCH SPRINGS,DALLAS,28,Hispanic,2.6,40.8,firstname655,lastname655,1234568544,Unregistered
+27080588,TX,DALLAS,DALLAS,36,Caucasian,2.6,76.5,firstname656,lastname656,1234568545,Registered
+28963135,TX,FORT WORTH,TARRANT,25,Uncoded,2.6,72.1,firstname657,lastname657,1234568546,Registered
+30591686,TX,GARLAND,DALLAS,24,Caucasian,2.6,76.9,firstname658,lastname658,1234568547,Registered
+3163569,TX,AMARILLO,RANDALL,40,Caucasian,2.6,47.3,firstname659,lastname659,1234568548,Registered
+2768741,TX,HOUSTON,HARRIS,42,African-American,2.6,90.8,firstname660,lastname660,1234568549,Unregistered
+12177499,TX,ORANGE GROVE,JIM WELLS,34,Caucasian,2.6,7.9,firstname661,lastname661,1234568550,Registered
+13429783,TX,SACHSE,DALLAS,29,Caucasian,2.6,43.1,firstname662,lastname662,1234568551,Registered
+13539557,TX,MCKINNEY,COLLIN,40,Caucasian,2.6,61,firstname663,lastname663,1234568552,Registered
+1675199,TX,FRIENDSWOOD,GALVESTON,33,Caucasian,2.6,52.3,firstname664,lastname664,1234568553,Registered
+27364111,TX,HOUSTON,HARRIS,30,Caucasian,2.6,48,firstname665,lastname665,1234568554,Registered
+30940526,TX,WICHITA FALLS,WICHITA,41,Caucasian,2.6,44.8,firstname666,lastname666,1234568555,Registered
+4286249,TX,EL PASO,EL PASO,38,Hispanic,2.6,71.8,firstname667,lastname667,1234568556,Registered
+5345507,TX,IRVING,DALLAS,34,Caucasian,2.6,37.6,firstname668,lastname668,1234568557,Registered
+29784075,TX,LAGO VISTA,TRAVIS,25,Caucasian,2.6,32.4,firstname669,lastname669,1234568558,Registered
+21153859,TX,LUCAS,COLLIN,30,Caucasian,2.6,24.2,firstname670,lastname670,1234568559,Registered
+35616351,TX,CAMERON,MILAM,45,Caucasian,2.6,41.7,firstname671,lastname671,1234568560,Unregistered
+39146013,TX,KILLEEN,BELL,33,African-American,2.6,83.2,firstname672,lastname672,1234568561,Unregistered
+11457676,TX,HOUSTON,HARRIS,43,African-American,2.6,92.3,firstname673,lastname673,1234568562,Registered
+31816994,TX,FORT WORTH,TARRANT,33,Caucasian,2.6,67,firstname674,lastname674,1234568563,Registered
+38142082,TX,BUDA,HAYS,43,Hispanic,2.6,38.4,firstname675,lastname675,1234568564,Unregistered
+32826930,TX,FORT WORTH,TARRANT,36,Caucasian,2.6,69.1,firstname676,lastname676,1234568565,Registered
+30390553,TX,ODESSA,ECTOR,45,Caucasian,2.6,59.4,firstname677,lastname677,1234568566,Registered
+11493823,TX,HOUSTON,HARRIS,31,African-American,2.6,94.9,firstname678,lastname678,1234568567,Registered
+32232589,TX,LIVE OAK,BEXAR,39,Caucasian,2.6,36.1,firstname679,lastname679,1234568568,Registered
+25013472,TX,KILLEEN,BELL,39,Caucasian,2.6,69.8,firstname680,lastname680,1234568569,Registered
+27754429,TX,CONVERSE,BEXAR,40,Caucasian,2.6,61.3,firstname681,lastname681,1234568570,Registered
+27711910,TX,SAN ANTONIO,BEXAR,27,Uncoded,2.6,78,firstname682,lastname682,1234568571,Registered
+29980921,TX,TYLER,SMITH,43,Caucasian,2.6,73.2,firstname683,lastname683,1234568572,Registered
+13129031,TX,BROWNSVILLE,CAMERON,38,Caucasian,2.6,64.1,firstname684,lastname684,1234568573,Registered
+13453088,TX,IRVING,DALLAS,30,Caucasian,2.6,57.4,firstname685,lastname685,1234568574,Registered
+15188611,TX,FRESNO,FORT BEND,43,African-American,2.6,84.6,firstname686,lastname686,1234568575,Unregistered
+2197414,TX,RICHWOOD,BRAZORIA,44,Caucasian,2.6,12.3,firstname687,lastname687,1234568576,Registered
+9089163,TX,SAN ANTONIO,BEXAR,42,Hispanic,2.6,94.1,firstname688,lastname688,1234568577,Registered
+6627044,TX,ABILENE,TAYLOR,40,Caucasian,2.6,18.3,firstname689,lastname689,1234568578,Registered
+39932603,TX,MCKINNEY,COLLIN,35,Caucasian,2.6,45.2,firstname690,lastname690,1234568579,Unregistered
+28919657,TX,DALLAS,DALLAS,28,Uncoded,2.6,87.7,firstname691,lastname691,1234568580,Registered
+32454262,TX,BAYTOWN,HARRIS,39,Caucasian,2.6,27.4,firstname692,lastname692,1234568581,Registered
+33363438,TX,GRAPEVINE,TARRANT,33,Caucasian,2.6,80.6,firstname693,lastname693,1234568582,Registered
+6647965,TX,EL PASO,EL PASO,35,Hispanic,2.6,60.1,firstname694,lastname694,1234568583,Registered
+29715368,TX,DALLAS,DALLAS,42,Caucasian,2.6,69.3,firstname695,lastname695,1234568584,Registered
+6310436,TX,WACO,MCLENNAN,40,Caucasian,2.6,40.3,firstname696,lastname696,1234568585,Registered
+3429748,TX,NORTH RICHLAND HILLS,TARRANT,38,Caucasian,2.6,10,firstname697,lastname697,1234568586,Registered
+27770305,TX,DALLAS,DALLAS,27,Caucasian,2.6,40.8,firstname698,lastname698,1234568587,Registered
+34266811,TX,AUSTIN,TRAVIS,32,Caucasian,2.6,93.9,firstname699,lastname699,1234568588,Registered
+30403077,TX,FORT WORTH,TARRANT,28,Caucasian,2.6,31.6,firstname700,lastname700,1234568589,Registered
+38974979,TX,CORSICANA,NAVARRO,39,Uncoded,2.6,36.5,firstname701,lastname701,1234568590,Unregistered
+24097456,TX,PEARLAND,HARRIS,37,Hispanic,2.6,55.4,firstname702,lastname702,1234568591,Registered
+31582604,TX,KILLEEN,BELL,35,Caucasian,2.6,65.4,firstname703,lastname703,1234568592,Registered
+30028888,TX,AUSTIN,TRAVIS,39,Uncoded,2.6,86.9,firstname704,lastname704,1234568593,Registered
+24906273,TX,CEDAR PARK,WILLIAMSON,28,Caucasian,2.6,71.1,firstname705,lastname705,1234568594,Registered
+29597086,TX,MCKINNEY,COLLIN,38,Caucasian,2.6,65.2,firstname706,lastname706,1234568595,Registered
+11733739,TX,WILLIS,MONTGOMERY,45,Hispanic,2.6,38.2,firstname707,lastname707,1234568596,Registered
+12935062,TX,HOUSTON,HARRIS,39,Caucasian,2.6,63.9,firstname708,lastname708,1234568597,Registered
+27505222,TX,HOUSTON,HARRIS,36,Uncoded,2.6,52.4,firstname709,lastname709,1234568598,Registered
+20699498,TX,HOUSTON,HARRIS,28,Caucasian,2.6,44.1,firstname710,lastname710,1234568599,Registered
+31267579,TX,FLOWER MOUND,DENTON,28,Asian,2.6,94.9,firstname711,lastname711,1234568600,Registered
+29396624,TX,BELTON,BELL,43,Caucasian,2.6,32,firstname712,lastname712,1234568601,Registered
+31893609,TX,GRANBURY,HOOD,35,African-American,2.6,36.4,firstname713,lastname713,1234568602,Registered
+11016118,TX,ABILENE,TAYLOR,43,Caucasian,2.6,21.8,firstname714,lastname714,1234568603,Registered
+646196,TX,LORENA,MCLENNAN,40,Caucasian,2.6,69.2,firstname715,lastname715,1234568604,Registered
+5117444,TX,SAN ANTONIO,BEXAR,39,Hispanic,2.6,21.5,firstname716,lastname716,1234568605,Registered
+27994897,TX,HOUSTON,HARRIS,23,Hispanic,2.6,51.2,firstname717,lastname717,1234568606,Unregistered
+4932954,TX,WHITEHOUSE,SMITH,40,Caucasian,2.6,23.7,firstname718,lastname718,1234568607,Registered
+11310476,TX,MAGNOLIA,MONTGOMERY,32,Caucasian,2.6,14.9,firstname719,lastname719,1234568608,Registered
+29887780,TX,SACHSE,DALLAS,35,Uncoded,2.6,87.7,firstname720,lastname720,1234568609,Registered
+32491056,TX,HOUSTON,HARRIS,30,Uncoded,2.6,77.4,firstname721,lastname721,1234568610,Registered
+8086313,TX,FORT WORTH,TARRANT,37,Caucasian,2.6,96.9,firstname722,lastname722,1234568611,Registered
+25246360,TX,SAN ANTONIO,BEXAR,45,Caucasian,2.6,8.5,firstname723,lastname723,1234568612,Registered
+3722092,TX,FORT WORTH,TARRANT,41,Caucasian,2.6,46.2,firstname724,lastname724,1234568613,Registered
+30109829,TX,IRVING,DALLAS,38,Caucasian,2.6,69.5,firstname725,lastname725,1234568614,Registered
+10926836,TX,BROWNSVILLE,CAMERON,45,Hispanic,2.6,29.1,firstname726,lastname726,1234568615,Registered
+3574036,TX,ARLINGTON,TARRANT,36,African-American,2.6,94.5,firstname727,lastname727,1234568616,Registered
+12061111,TX,LEAGUE CITY,GALVESTON,31,Caucasian,2.6,42.6,firstname728,lastname728,1234568617,Registered
+12202590,TX,HOUSTON,HARRIS,36,Caucasian,2.6,19.3,firstname729,lastname729,1234568618,Registered
+12297020,TX,SAN ANTONIO,BEXAR,31,Hispanic,2.6,24.3,firstname730,lastname730,1234568619,Registered
+5253468,TX,PLANO,COLLIN,38,Caucasian,2.6,18.8,firstname731,lastname731,1234568620,Registered
+26666521,TX,SAN ANTONIO,BEXAR,44,Caucasian,2.6,59.1,firstname732,lastname732,1234568621,Registered
+9550146,TX,EULESS,TARRANT,39,Caucasian,2.6,38.1,firstname733,lastname733,1234568622,Registered
+5250727,TX,MIDLOTHIAN,ELLIS,32,Caucasian,2.6,51,firstname734,lastname734,1234568623,Registered
+11798782,TX,LEANDER,TRAVIS,39,Caucasian,2.6,57,firstname735,lastname735,1234568624,Registered
+11269595,TX,WICHITA FALLS,WICHITA,40,Caucasian,2.6,26.7,firstname736,lastname736,1234568625,Registered
+32790227,TX,FORT BLISS,EL PASO,28,Caucasian,2.6,11.4,firstname737,lastname737,1234568626,Registered
+33884823,TX,FORT WORTH,TARRANT,22,Caucasian,2.6,27.8,firstname738,lastname738,1234568627,Registered
+38576737,TX,HOUSTON,HARRIS,44,African-American,2.6,91.8,firstname739,lastname739,1234568628,Unregistered
+40461399,TX,MIDLAND,MIDLAND,29,Hispanic,2.6,72.1,firstname740,lastname740,1234568629,Unregistered
+27264550,TX,FLOWER MOUND,DENTON,33,Caucasian,2.6,80.9,firstname741,lastname741,1234568630,Registered
+31175445,TX,CHANDLER,HENDERSON,37,Caucasian,2.6,33.8,firstname742,lastname742,1234568631,Registered
+30540813,TX,FORT WORTH,TARRANT,35,Caucasian,2.6,70.4,firstname743,lastname743,1234568632,Registered
+32015655,TX,SAN ANTONIO,BEXAR,23,Hispanic,2.6,19.2,firstname744,lastname744,1234568633,Registered
+31597358,TX,EL PASO,EL PASO,39,Caucasian,2.6,66.9,firstname745,lastname745,1234568634,Registered
+38630121,TX,DALLAS,DALLAS,43,African-American,2.6,63.3,firstname746,lastname746,1234568635,Unregistered
+25242700,TX,AMARILLO,POTTER,27,Caucasian,2.6,60.1,firstname747,lastname747,1234568636,Registered
+29463738,TX,NORTHLAKE,DENTON,25,Caucasian,2.6,54.7,firstname748,lastname748,1234568637,Registered
+12079072,TX,HOUSTON,HARRIS,31,Caucasian,2.6,54.2,firstname749,lastname749,1234568638,Registered
+8272430,TX,MIDLAND,MIDLAND,34,Caucasian,2.6,17.9,firstname750,lastname750,1234568639,Registered
+38792965,TX,DUNCANVILLE,DALLAS,44,Hispanic,2.6,58.2,firstname751,lastname751,1234568640,Unregistered
+31743343,TX,MCALLEN,HIDALGO,32,Caucasian,2.6,34.3,firstname752,lastname752,1234568641,Registered
+23134370,TX,BROWNSVILLE,CAMERON,44,Hispanic,2.6,81.3,firstname753,lastname753,1234568642,Unregistered
+32594593,TX,CORPUS CHRISTI,NUECES,23,African-American,2.6,83.7,firstname754,lastname754,1234568643,Registered
+29884443,TX,FORT WORTH,TARRANT,36,Caucasian,2.6,84.9,firstname755,lastname755,1234568644,Registered
+32419818,TX,KATY,FORT BEND,40,Caucasian,2.6,47.7,firstname756,lastname756,1234568645,Registered
+30682156,TX,WYLIE,COLLIN,28,Hispanic,2.6,85,firstname757,lastname757,1234568646,Registered
+20789851,TX,DALLAS,DALLAS,30,Caucasian,2.6,40.7,firstname758,lastname758,1234568647,Registered
+31764374,TX,CONVERSE,BEXAR,41,Caucasian,2.6,62.3,firstname759,lastname759,1234568648,Registered
+6885968,TX,HOUSTON,HARRIS,42,Caucasian,2.6,56.4,firstname760,lastname760,1234568649,Registered
+30691591,TX,SAN ANTONIO,BEXAR,43,Caucasian,2.6,57.5,firstname761,lastname761,1234568650,Registered
+5462692,TX,PROSPER,DENTON,35,Caucasian,2.6,68.3,firstname762,lastname762,1234568651,Registered
+33064899,TX,AUSTIN,TRAVIS,45,Caucasian,2.6,76.9,firstname763,lastname763,1234568652,Registered
+28182756,TX,PFLUGERVILLE,TRAVIS,28,Caucasian,2.6,78.1,firstname764,lastname764,1234568653,Registered
+30659085,TX,SAN ANTONIO,BEXAR,43,Caucasian,2.6,74.3,firstname765,lastname765,1234568654,Registered
+40230052,TX,PRINCETON,COLLIN,32,Caucasian,2.6,21,firstname766,lastname766,1234568655,Unregistered
+33776721,TX,KATY,WALLER,36,African-American,2.6,72.8,firstname767,lastname767,1234568656,Registered
+2986247,TX,TYLER,SMITH,35,Caucasian,2.6,39.4,firstname768,lastname768,1234568657,Registered
+1987833,TX,ORANGE,ORANGE,36,Caucasian,2.6,11.6,firstname769,lastname769,1234568658,Registered
+15368346,TX,HUMBLE,HARRIS,36,African-American,2.6,84,firstname770,lastname770,1234568659,Unregistered
+31535336,TX,LONGVIEW,GREGG,33,Caucasian,2.6,61.2,firstname771,lastname771,1234568660,Registered
+19161157,TX,DALLAS,DALLAS,22,African-American,2.6,69.8,firstname772,lastname772,1234568661,Unregistered
+27956159,TX,CUERO,DEWITT,35,Caucasian,2.6,26.1,firstname773,lastname773,1234568662,Registered
+7184940,TX,SAN ANTONIO,MEDINA,36,Hispanic,2.6,41.4,firstname774,lastname774,1234568663,Registered
+31880049,TX,HARKER HEIGHTS,BELL,33,Caucasian,2.6,59.9,firstname775,lastname775,1234568664,Registered
+1046791,TX,WEBSTER,HARRIS,37,Caucasian,2.6,31.1,firstname776,lastname776,1234568665,Registered
+26661704,TX,KELLER,TARRANT,27,Caucasian,2.6,33.2,firstname777,lastname777,1234568666,Registered
+36055823,TX,GARLAND,DALLAS,24,Uncoded,2.6,56,firstname778,lastname778,1234568667,Unregistered
+31667032,TX,KATY,FORT BEND,23,Caucasian,2.6,80.6,firstname779,lastname779,1234568668,Registered
+6310680,TX,WACO,MCLENNAN,44,African-American,2.6,96.6,firstname780,lastname780,1234568669,Registered
+1504546,TX,RICHMOND,FORT BEND,40,Caucasian,2.6,75.2,firstname781,lastname781,1234568670,Registered
+31595306,TX,LONGVIEW,GREGG,28,Caucasian,2.6,36.8,firstname782,lastname782,1234568671,Registered
+32387254,TX,FORT WORTH,TARRANT,28,Caucasian,2.6,80.6,firstname783,lastname783,1234568672,Registered
+11250532,TX,MONTGOMERY,MONTGOMERY,33,Caucasian,2.6,47.9,firstname784,lastname784,1234568673,Registered
+6073351,TX,IRVING,DALLAS,38,Caucasian,2.6,79.5,firstname785,lastname785,1234568674,Registered
+35781386,TX,FRISCO,COLLIN,44,Caucasian,2.6,26.3,firstname786,lastname786,1234568675,Unregistered
+12663142,TX,DALLAS,DALLAS,30,Caucasian,2.6,35.5,firstname787,lastname787,1234568676,Registered
+27441765,TX,PECOS,REEVES,27,Caucasian,2.6,17.2,firstname788,lastname788,1234568677,Registered
+13348758,TX,DENTON,DENTON,30,Caucasian,2.6,84.1,firstname789,lastname789,1234568678,Registered
+4099716,TX,CORSICANA,NAVARRO,33,Caucasian,2.6,22.2,firstname790,lastname790,1234568679,Registered
+31480832,TX,IRVING,DALLAS,37,Uncoded,2.6,86.2,firstname791,lastname791,1234568680,Registered
+6213166,TX,MINEOLA,WOOD,43,Caucasian,2.6,93.2,firstname792,lastname792,1234568681,Registered
+29266460,TX,HIGHLAND VILLAGE,DENTON,29,Hispanic,2.6,23.3,firstname793,lastname793,1234568682,Registered
+29965404,TX,AUSTIN,TRAVIS,25,Caucasian,2.6,84.2,firstname794,lastname794,1234568683,Registered
+5173084,TX,ARLINGTON,TARRANT,43,Caucasian,2.6,87.5,firstname795,lastname795,1234568684,Registered
+27549453,TX,DALLAS,DENTON,40,Caucasian,2.6,63.6,firstname796,lastname796,1234568685,Registered
+30090822,TX,FORT WORTH,TARRANT,30,Caucasian,2.6,42.8,firstname797,lastname797,1234568686,Registered
+5034126,TX,GRAND PRAIRIE,DALLAS,44,African-American,2.6,90.2,firstname798,lastname798,1234568687,Registered
+30856896,TX,KILLEEN,BELL,42,Caucasian,2.6,51,firstname799,lastname799,1234568688,Registered
+35175257,TX,MIDLOTHIAN,ELLIS,29,Caucasian,2.6,39.9,firstname800,lastname800,1234568689,Registered
+30564836,TX,KILLEEN,BELL,34,Caucasian,2.6,53.9,firstname801,lastname801,1234568690,Registered
+32969269,TX,GEORGETOWN,WILLIAMSON,35,Caucasian,2.6,74.9,firstname802,lastname802,1234568691,Registered
+31181440,TX,JUSTIN,DENTON,40,Caucasian,2.6,22.5,firstname803,lastname803,1234568692,Registered
+1774682,TX,LIBERTY,LIBERTY,37,Caucasian,2.6,44.8,firstname804,lastname804,1234568693,Registered
+31713802,TX,HUMBLE,HARRIS,40,Caucasian,2.6,54.5,firstname805,lastname805,1234568694,Registered
+38245312,TX,GARLAND,DALLAS,24,Hispanic,2.6,23.1,firstname806,lastname806,1234568695,Unregistered
+31165142,TX,NORTH RICHLAND HILLS,TARRANT,36,Caucasian,2.6,76.1,firstname807,lastname807,1234568696,Registered
+3306305,TX,LEVELLAND,HOCKLEY,36,Caucasian,2.6,82.5,firstname808,lastname808,1234568697,Registered
+31430392,TX,AUSTIN,TRAVIS,45,Caucasian,2.6,75.6,firstname809,lastname809,1234568698,Registered
+29530762,TX,KEMPNER,LAMPASAS,44,Caucasian,2.6,23.6,firstname810,lastname810,1234568699,Registered
+30913553,TX,AUSTIN,TRAVIS,34,Caucasian,2.6,80.4,firstname811,lastname811,1234568700,Registered
+2654302,TX,ROSHARON,BRAZORIA,36,Caucasian,2.6,38.6,firstname812,lastname812,1234568701,Registered
+9530425,TX,HOUSTON,HARRIS,45,Caucasian,2.6,87.8,firstname813,lastname813,1234568702,Registered
+30267444,TX,MCKINNEY,COLLIN,29,Caucasian,2.6,82.1,firstname814,lastname814,1234568703,Registered
+19932004,TX,HOUSTON,HARRIS,27,Hispanic,2.6,83.1,firstname815,lastname815,1234568704,Registered
+10589338,TX,LINDALE,SMITH,36,Uncoded,2.6,26.1,firstname816,lastname816,1234568705,Registered
+11645290,TX,LEAGUE CITY,GALVESTON,34,Caucasian,2.6,40.2,firstname817,lastname817,1234568706,Registered
+14552906,TX,HOUSTON,HARRIS,45,Caucasian,2.6,62.3,firstname818,lastname818,1234568707,Unregistered
+9476081,TX,CIBOLO,GUADALUPE,41,Caucasian,2.6,46.1,firstname819,lastname819,1234568708,Registered
+2565513,TX,PALACIOS,MATAGORDA,44,Caucasian,2.6,21.1,firstname820,lastname820,1234568709,Registered
+26502009,TX,CORPUS CHRISTI,NUECES,42,Hispanic,2.6,23.4,firstname821,lastname821,1234568710,Registered
+2199709,TX,BASTROP,BASTROP,38,African-American,2.6,53.7,firstname822,lastname822,1234568711,Registered
+13446441,TX,TROUP,SMITH,37,Caucasian,2.6,22,firstname823,lastname823,1234568712,Registered
+31007977,TX,SAN ANTONIO,BEXAR,37,Caucasian,2.6,44.5,firstname824,lastname824,1234568713,Registered
+12994849,TX,DALLAS,DALLAS,30,Caucasian,2.6,83.3,firstname825,lastname825,1234568714,Registered
+4706601,TX,GAINESVILLE,COOKE,41,Caucasian,2.6,39.2,firstname826,lastname826,1234568715,Registered
+20721355,TX,NEEDVILLE,FORT BEND,28,Caucasian,2.6,8.7,firstname827,lastname827,1234568716,Registered
+11467433,TX,AZLE,PARKER,31,Caucasian,2.6,13.3,firstname828,lastname828,1234568717,Registered
+11987031,TX,THE WOODLANDS,MONTGOMERY,36,Caucasian,2.6,54.1,firstname829,lastname829,1234568718,Registered
+29965834,TX,LAKEWAY,TRAVIS,25,Caucasian,2.6,50.2,firstname830,lastname830,1234568719,Registered
+31683074,TX,LAKEWAY,TRAVIS,41,Caucasian,2.6,77.5,firstname831,lastname831,1234568720,Registered
+25024996,TX,WYLIE,COLLIN,33,Caucasian,2.6,49,firstname832,lastname832,1234568721,Registered
+16145501,TX,EL PASO,EL PASO,24,Hispanic,2.6,25.7,firstname833,lastname833,1234568722,Unregistered
+33009894,TX,FORT WORTH,TARRANT,22,Caucasian,2.6,76,firstname834,lastname834,1234568723,Registered
+38514287,TX,SAN ANGELO,TOM GREEN,25,Hispanic,2.6,73.3,firstname835,lastname835,1234568724,Unregistered
+7368479,TX,LIBERTY,LIBERTY,39,Caucasian,2.6,19.4,firstname836,lastname836,1234568725,Registered
+12153280,TX,MISSOURI CITY,FORT BEND,33,Caucasian,2.6,21,firstname837,lastname837,1234568726,Registered
+28037014,TX,HOUSTON,HARRIS,36,Caucasian,2.6,70.2,firstname838,lastname838,1234568727,Registered
+9070282,TX,LUBBOCK,LUBBOCK,40,Caucasian,2.6,24.9,firstname839,lastname839,1234568728,Registered
+36578354,TX,AUSTIN,TRAVIS,43,Caucasian,2.6,49.4,firstname840,lastname840,1234568729,Unregistered
+1417080,TX,PEARLAND,BRAZORIA,38,Caucasian,2.6,54.5,firstname841,lastname841,1234568730,Registered
+10268651,TX,CROWLEY,TARRANT,40,Caucasian,2.6,17.6,firstname842,lastname842,1234568731,Registered
+27293113,TX,GODLEY,JOHNSON,27,Caucasian,2.6,8.3,firstname843,lastname843,1234568732,Registered
+7359601,TX,MELISSA,COLLIN,38,Caucasian,2.6,16.8,firstname844,lastname844,1234568733,Registered
+2276214,TX,SAN MARCOS,HAYS,40,Caucasian,2.6,51.2,firstname845,lastname845,1234568734,Registered
+23016259,TX,SNYDER,SCURRY,24,Uncoded,2.6,64.5,firstname846,lastname846,1234568735,Unregistered
+29218394,TX,AUSTIN,TRAVIS,32,African-American,2.6,93.9,firstname847,lastname847,1234568736,Registered
+30107267,TX,MELISSA,COLLIN,30,Caucasian,2.6,66,firstname848,lastname848,1234568737,Registered
+38375981,TX,CORPUS CHRISTI,NUECES,23,Hispanic,2.6,54.3,firstname849,lastname849,1234568738,Unregistered
+38204284,TX,MESQUITE,DALLAS,42,Hispanic,2.6,34.4,firstname850,lastname850,1234568739,Unregistered
+12468769,TX,ARLINGTON,TARRANT,35,Caucasian,2.6,31.6,firstname851,lastname851,1234568740,Registered
+27590139,TX,AUSTIN,TRAVIS,32,Caucasian,2.6,96.1,firstname852,lastname852,1234568741,Registered
+31770105,TX,GLADEWATER,UPSHUR,23,Caucasian,2.6,32.8,firstname853,lastname853,1234568742,Registered
+29456760,TX,HUMBLE,HARRIS,33,Caucasian,2.6,48.4,firstname854,lastname854,1234568743,Registered
+3161321,TX,AMARILLO,POTTER,35,Caucasian,2.6,39.4,firstname855,lastname855,1234568744,Registered
+28699331,TX,DENTON,DENTON,28,Caucasian,2.6,59.4,firstname856,lastname856,1234568745,Registered
+31197719,TX,PLANO,COLLIN,29,Caucasian,2.6,81.4,firstname857,lastname857,1234568746,Registered
+33835016,TX,BRYAN,BRAZOS,26,African-American,2.6,78.5,firstname858,lastname858,1234568747,Unregistered
+29781551,TX,FORT WORTH,TARRANT,32,Caucasian,2.6,82.1,firstname859,lastname859,1234568748,Registered
+7725990,TX,FRISCO,DENTON,41,Caucasian,2.6,26.4,firstname860,lastname860,1234568749,Registered
+31939240,TX,ROWLETT,DALLAS,26,Caucasian,2.6,51.2,firstname861,lastname861,1234568750,Registered
+27360840,TX,HOCKLEY,HARRIS,27,Caucasian,2.6,10.2,firstname862,lastname862,1234568751,Registered
+31562909,TX,SAN ANTONIO,BEXAR,36,Caucasian,2.6,66.8,firstname863,lastname863,1234568752,Registered
+35246676,TX,AUSTIN,TRAVIS,32,Caucasian,2.6,76.7,firstname864,lastname864,1234568753,Registered
+8717228,TX,HOWE,GRAYSON,40,Uncoded,2.6,34.8,firstname865,lastname865,1234568754,Registered
+34051272,TX,GRAND PRAIRIE,DALLAS,23,Hispanic,2.6,58.9,firstname866,lastname866,1234568755,Unregistered
+13080415,TX,DALLAS,DALLAS,37,Caucasian,2.6,42.8,firstname867,lastname867,1234568756,Registered
+5591842,TX,ENNIS,ELLIS,42,Caucasian,2.6,32.2,firstname868,lastname868,1234568757,Registered
+11126512,TX,MCKINNEY,COLLIN,38,Caucasian,2.6,66.8,firstname869,lastname869,1234568758,Registered
+11125134,TX,GILMER,UPSHUR,37,Caucasian,2.6,25.5,firstname870,lastname870,1234568759,Registered
+29058147,TX,COLLEYVILLE,TARRANT,26,Caucasian,2.6,39.3,firstname871,lastname871,1234568760,Registered
+31906186,TX,CARROLLTON,COLLIN,28,Caucasian,2.6,76.6,firstname872,lastname872,1234568761,Registered
+29687411,TX,CARROLLTON,DENTON,40,Caucasian,2.6,72.8,firstname873,lastname873,1234568762,Registered
+276903,TX,NEW BRAUNFELS,COMAL,44,Caucasian,2.6,5.7,firstname874,lastname874,1234568763,Registered
+4115374,TX,CROSBY,HARRIS,36,Caucasian,2.6,30.5,firstname875,lastname875,1234568764,Registered
+31916322,TX,WICHITA FALLS,WICHITA,42,Caucasian,2.6,30.2,firstname876,lastname876,1234568765,Registered
+12254003,TX,AUSTIN,TRAVIS,31,Caucasian,2.6,87.1,firstname877,lastname877,1234568766,Registered
+5463518,TX,DALLAS,DALLAS,44,Caucasian,2.6,82,firstname878,lastname878,1234568767,Registered
+38986096,TX,ARLINGTON,TARRANT,40,Hispanic,2.6,57.9,firstname879,lastname879,1234568768,Unregistered
+32052354,TX,AUSTIN,TRAVIS,24,Caucasian,2.6,87.8,firstname880,lastname880,1234568769,Registered
+31146180,TX,MEMPHIS,HALL,45,Caucasian,2.6,32.8,firstname881,lastname881,1234568770,Registered
+33886987,TX,FORT BLISS,EL PASO,24,Caucasian,2.6,73.6,firstname882,lastname882,1234568771,Registered
+6662835,TX,MANVEL,BRAZORIA,34,Caucasian,2.6,28.5,firstname883,lastname883,1234568772,Registered
+32063663,TX,ROUND ROCK,WILLIAMSON,31,Caucasian,2.6,78.2,firstname884,lastname884,1234568773,Registered
+8457460,TX,COLEMAN,COLEMAN,39,Caucasian,2.6,19.4,firstname885,lastname885,1234568774,Registered
+31669747,TX,SAN ANGELO,TOM GREEN,41,African-American,2.6,62.6,firstname886,lastname886,1234568775,Registered
+9647739,TX,FRESNO,FORT BEND,35,Hispanic,2.6,47.1,firstname887,lastname887,1234568776,Registered
+34715740,TX,SAN ANTONIO,BEXAR,22,Caucasian,2.6,50.8,firstname888,lastname888,1234568777,Registered
+31824655,TX,LYTLE,ATASCOSA,34,Caucasian,2.6,71.6,firstname889,lastname889,1234568778,Registered
+15929105,TX,SAN ANTONIO,BEXAR,39,Caucasian,2.6,6.8,firstname890,lastname890,1234568779,Registered
+10683287,TX,DENISON,GRAYSON,37,Caucasian,2.6,40.2,firstname891,lastname891,1234568780,Registered
+13409404,TX,SAN ANTONIO,BEXAR,39,Caucasian,2.6,59.6,firstname892,lastname892,1234568781,Registered
+39162020,TX,KATY,HARRIS,28,Hispanic,2.6,24.8,firstname893,lastname893,1234568782,Unregistered
+31071561,TX,CELINA,COLLIN,45,Caucasian,2.6,18.8,firstname894,lastname894,1234568783,Registered
+12227382,TX,NEW BRAUNFELS,GUADALUPE,31,Caucasian,2.6,42.9,firstname895,lastname895,1234568784,Registered
+27244710,TX,FRISCO,DENTON,30,Caucasian,2.6,60.7,firstname896,lastname896,1234568785,Registered
+11829131,TX,CARROLLTON,DENTON,31,Caucasian,2.6,82.4,firstname897,lastname897,1234568786,Registered
+2397781,TX,VICTORIA,VICTORIA,44,Hispanic,2.6,66.6,firstname898,lastname898,1234568787,Registered
+33585727,TX,DALLAS,DALLAS,24,Hispanic,2.6,91.8,firstname899,lastname899,1234568788,Unregistered
+11497007,TX,PLANO,COLLIN,34,Caucasian,2.6,77.4,firstname900,lastname900,1234568789,Registered
+13436661,TX,MCKINNEY,COLLIN,29,Caucasian,2.6,32.1,firstname901,lastname901,1234568790,Registered
+30332646,TX,SAN ANTONIO,BEXAR,29,Caucasian,2.6,79.5,firstname902,lastname902,1234568791,Registered
+5566154,TX,SACHSE,DALLAS,35,Caucasian,2.6,44.3,firstname903,lastname903,1234568792,Registered
+32580012,TX,EL PASO,EL PASO,44,Caucasian,2.6,59.9,firstname904,lastname904,1234568793,Registered
+38660174,TX,SAN ANTONIO,BEXAR,34,Caucasian,2.6,51.5,firstname905,lastname905,1234568794,Unregistered
+4451610,TX,MIDLAND,MIDLAND,36,Caucasian,2.6,10.8,firstname906,lastname906,1234568795,Registered
+11354610,TX,EL PASO,EL PASO,40,Hispanic,2.6,68.2,firstname907,lastname907,1234568796,Registered
+38710752,TX,FORT WORTH,TARRANT,45,African-American,2.6,78.7,firstname908,lastname908,1234568797,Unregistered
+29294390,TX,GRAND PRAIRIE,DALLAS,28,Caucasian,2.6,66.6,firstname909,lastname909,1234568798,Registered
+27606574,TX,CIBOLO,GUADALUPE,41,African-American,2.6,69.5,firstname910,lastname910,1234568799,Registered
+27556365,TX,NEW BRAUNFELS,COMAL,28,Caucasian,2.6,74,firstname911,lastname911,1234568800,Registered
+12807949,TX,HUMBLE,HARRIS,32,Uncoded,2.6,51.5,firstname912,lastname912,1234568801,Registered
+671548,TX,DALLAS,DALLAS,45,Caucasian,2.6,66.4,firstname913,lastname913,1234568802,Registered
+31161079,TX,ALBA,WOOD,24,African-American,2.6,13.1,firstname914,lastname914,1234568803,Registered
+19214632,TX,KINGWOOD,HARRIS,33,Caucasian,2.6,28,firstname915,lastname915,1234568804,Unregistered
+29797675,TX,DALLAS,DALLAS,32,African-American,2.6,92.7,firstname916,lastname916,1234568805,Registered
+35245135,TX,AUSTIN,TRAVIS,31,Caucasian,2.6,69.9,firstname917,lastname917,1234568806,Registered
+28184016,TX,AUSTIN,WILLIAMSON,27,Caucasian,2.6,80.1,firstname918,lastname918,1234568807,Registered
+28826218,TX,ROSHARON,BRAZORIA,29,Caucasian,2.6,67.6,firstname919,lastname919,1234568808,Registered
+29589822,TX,FORNEY,KAUFMAN,37,Caucasian,2.6,58.4,firstname920,lastname920,1234568809,Registered
+9858288,TX,HEREFORD,DEAF SMITH,45,Hispanic,2.6,49.3,firstname921,lastname921,1234568810,Registered
+28712466,TX,LEAGUE CITY,GALVESTON,43,Caucasian,2.6,64.4,firstname922,lastname922,1234568811,Registered
+11189581,TX,DALLAS,DALLAS,32,Caucasian,2.6,87.6,firstname923,lastname923,1234568812,Registered
+25116268,TX,ARANSAS PASS,SAN PATRICIO,27,Caucasian,2.6,73,firstname924,lastname924,1234568813,Registered
+9694979,TX,MARSHALL,HARRISON,37,Caucasian,2.6,61.2,firstname925,lastname925,1234568814,Registered
+34196660,TX,SPRINGTOWN,PARKER,43,Caucasian,2.6,61.4,firstname926,lastname926,1234568815,Registered
+12244311,TX,SUGAR LAND,FORT BEND,31,Caucasian,2.6,42.4,firstname927,lastname927,1234568816,Registered
+32362292,TX,CROSSROADS,DENTON,35,Caucasian,2.6,37.9,firstname928,lastname928,1234568817,Registered
+12513603,TX,PILOT POINT,DENTON,42,Hispanic,2.6,77.8,firstname929,lastname929,1234568818,Registered
+38892850,TX,ARLINGTON,TARRANT,40,Hispanic,2.6,57.8,firstname930,lastname930,1234568819,Unregistered
+30079579,TX,HOUSTON,HARRIS,36,Caucasian,2.6,10.5,firstname931,lastname931,1234568820,Registered
+20785498,TX,LONGVIEW,HARRISON,34,African-American,2.6,43.1,firstname932,lastname932,1234568821,Registered
+12430231,TX,GEORGETOWN,WILLIAMSON,45,Caucasian,2.6,70.9,firstname933,lastname933,1234568822,Registered
+27747450,TX,MCKINNEY,COLLIN,38,Caucasian,2.6,71.1,firstname934,lastname934,1234568823,Registered
+27753340,TX,AUBREY,DENTON,41,Caucasian,2.6,39.6,firstname935,lastname935,1234568824,Registered
+40460998,TX,HOUSTON,HARRIS,26,Uncoded,2.6,53.5,firstname936,lastname936,1234568825,Unregistered
+36105621,TX,BROWNWOOD,BROWN,33,Uncoded,2.6,82.7,firstname937,lastname937,1234568826,Unregistered
+27989833,TX,COLLEGE STATION,BRAZOS,26,Caucasian,2.6,50.9,firstname938,lastname938,1234568827,Registered
+29173047,TX,DALLAS,DALLAS,34,Caucasian,2.6,70.9,firstname939,lastname939,1234568828,Registered
+10904442,TX,LIVINGSTON,POLK,34,Caucasian,2.6,46.2,firstname940,lastname940,1234568829,Registered
+12324643,TX,BASTROP,BASTROP,34,Hispanic,2.6,24.8,firstname941,lastname941,1234568830,Registered
+6006798,TX,PHARR,HIDALGO,33,Hispanic,2.6,58.7,firstname942,lastname942,1234568831,Registered
+24928364,TX,BRYAN,BRAZOS,45,Caucasian,2.6,17.5,firstname943,lastname943,1234568832,Registered
+35141605,TX,FRISCO,COLLIN,26,Asian,2.6,86.8,firstname944,lastname944,1234568833,Registered
+12293633,TX,SAN BENITO,CAMERON,31,Hispanic,2.6,64.1,firstname945,lastname945,1234568834,Registered
+41253381,TX,PLANO,COLLIN,43,Asian,2.6,53.4,firstname946,lastname946,1234568835,Unregistered
+10739232,TX,LAREDO,WEBB,34,Hispanic,2.6,78.2,firstname947,lastname947,1234568836,Registered
+32325769,TX,DALLAS,DALLAS,29,Caucasian,2.6,84.4,firstname948,lastname948,1234568837,Registered
+29564915,TX,DALLAS,DALLAS,36,Caucasian,2.6,78.3,firstname949,lastname949,1234568838,Registered
+31020929,TX,CONROE,MONTGOMERY,36,Caucasian,2.6,47.1,firstname950,lastname950,1234568839,Registered
+37897665,TX,GARLAND,DALLAS,45,Hispanic,2.6,46.5,firstname951,lastname951,1234568840,Unregistered
+25201334,TX,AMARILLO,RANDALL,42,Uncoded,2.6,78.5,firstname952,lastname952,1234568841,Registered
+28987177,TX,DALLAS,DALLAS,30,Caucasian,2.6,62,firstname953,lastname953,1234568842,Registered
+12728813,TX,ARLINGTON,TARRANT,36,Caucasian,2.6,13.5,firstname954,lastname954,1234568843,Registered
+9924862,TX,THE WOODLANDS,MONTGOMERY,36,Caucasian,2.6,37.9,firstname955,lastname955,1234568844,Registered
+32300172,TX,AUSTIN,TRAVIS,43,Caucasian,2.6,81.4,firstname956,lastname956,1234568845,Registered
+29847475,TX,WATAUGA,TARRANT,26,Caucasian,2.6,71,firstname957,lastname957,1234568846,Registered
+38622786,TX,HOUSTON,HARRIS,44,African-American,2.6,65.1,firstname958,lastname958,1234568847,Unregistered
+30841858,TX,HUTTO,WILLIAMSON,38,Caucasian,2.6,69.5,firstname959,lastname959,1234568848,Registered
+11839140,TX,SAN ANTONIO,BEXAR,44,Caucasian,2.6,92.8,firstname960,lastname960,1234568849,Registered
+1040574,TX,HOUSTON,HARRIS,33,Caucasian,2.6,47.5,firstname961,lastname961,1234568850,Registered
+1479706,TX,SPRING,HARRIS,40,Caucasian,2.6,46.6,firstname962,lastname962,1234568851,Registered
+27405982,TX,KATY,HARRIS,33,Caucasian,2.6,56.6,firstname963,lastname963,1234568852,Registered
+24944104,TX,AUSTIN,TRAVIS,43,Caucasian,2.6,78.6,firstname964,lastname964,1234568853,Registered
+12709305,TX,FORT WORTH,TARRANT,38,Caucasian,2.6,8,firstname965,lastname965,1234568854,Registered
+12101919,TX,DALLAS,DALLAS,31,African-American,2.6,82.6,firstname966,lastname966,1234568855,Registered
+11514365,TX,CORPUS CHRISTI,NUECES,36,Caucasian,2.6,22.5,firstname967,lastname967,1234568856,Registered
+7057606,TX,DALLAS,DALLAS,45,African-American,2.6,85.8,firstname968,lastname968,1234568857,Registered
+22724200,TX,LUMBERTON,HARDIN,26,Caucasian,2.6,39.5,firstname969,lastname969,1234568858,Registered
+34365886,TX,TOMBALL,HARRIS,44,Hispanic,2.6,40.7,firstname970,lastname970,1234568859,Registered
+29125616,TX,MIDLAND,MIDLAND,32,Caucasian,2.6,95.1,firstname971,lastname971,1234568860,Registered
+38907567,TX,BIG SPRING,HOWARD,42,Hispanic,2.6,53,firstname972,lastname972,1234568861,Unregistered
+24894963,TX,SAN ANTONIO,BEXAR,36,Caucasian,2.6,15.9,firstname973,lastname973,1234568862,Registered
+11675499,TX,FORT WORTH,TARRANT,31,Caucasian,2.6,39.5,firstname974,lastname974,1234568863,Registered
+28112162,TX,CORPUS CHRISTI,NUECES,28,Caucasian,2.6,43.2,firstname975,lastname975,1234568864,Registered
+12530318,TX,DALLAS,DALLAS,37,Caucasian,2.6,57.9,firstname976,lastname976,1234568865,Registered
+38626855,TX,HOUSTON,HARRIS,34,African-American,2.6,92.4,firstname977,lastname977,1234568866,Unregistered
+31820686,TX,KILLEEN,BELL,37,Caucasian,2.6,59.5,firstname978,lastname978,1234568867,Registered
+29990203,TX,MCKINNEY,COLLIN,33,Caucasian,2.6,35.8,firstname979,lastname979,1234568868,Registered
+11294119,TX,FORT WORTH,TARRANT,42,Caucasian,2.6,85.5,firstname980,lastname980,1234568869,Registered
+1669602,TX,HOUSTON,HARRIS,34,Caucasian,2.6,47.3,firstname981,lastname981,1234568870,Registered
+8890839,TX,SAN ANTONIO,BEXAR,42,Hispanic,2.6,58.3,firstname982,lastname982,1234568871,Registered
+30967944,TX,AUSTIN,TRAVIS,37,Caucasian,2.6,67.5,firstname983,lastname983,1234568872,Registered
+31198745,TX,ARLINGTON,TARRANT,24,Hispanic,2.6,70.8,firstname984,lastname984,1234568873,Registered
+30682307,TX,ANNA,COLLIN,35,Caucasian,2.6,64.9,firstname985,lastname985,1234568874,Registered
+5733452,TX,SAN ANTONIO,BEXAR,45,Uncoded,2.6,87.9,firstname986,lastname986,1234568875,Registered
+27035944,TX,SAN ANTONIO,BEXAR,30,Caucasian,2.6,90.4,firstname987,lastname987,1234568876,Registered
+12234595,TX,SAN ANTONIO,BEXAR,33,Caucasian,2.6,74.2,firstname988,lastname988,1234568877,Registered
+11702933,TX,LUBBOCK,LUBBOCK,31,Hispanic,2.6,62.5,firstname989,lastname989,1234568878,Registered
+2485858,TX,CORPUS CHRISTI,NUECES,45,Hispanic,2.6,64.8,firstname990,lastname990,1234568879,Registered
+32147794,TX,GARDEN RIDGE,COMAL,41,Caucasian,2.6,51.4,firstname991,lastname991,1234568880,Registered
+32757697,TX,PFLUGERVILLE,TRAVIS,31,Uncoded,2.6,82.1,firstname992,lastname992,1234568881,Registered
+3246384,TX,LUBBOCK,LUBBOCK,40,Hispanic,2.6,64,firstname993,lastname993,1234568882,Registered
+7681384,TX,SPRING,MONTGOMERY,43,Caucasian,2.6,42.6,firstname994,lastname994,1234568883,Registered
+32783803,TX,FRISCO,COLLIN,31,Caucasian,2.6,73.1,firstname995,lastname995,1234568884,Registered
+32997051,TX,SAN ANTONIO,BEXAR,41,Caucasian,2.6,40.2,firstname996,lastname996,1234568885,Registered
+11437119,TX,SCHERTZ,GUADALUPE,32,Caucasian,2.6,37.3,firstname997,lastname997,1234568886,Registered
+9710000,TX,GREGORY,SAN PATRICIO,41,Hispanic,2.6,72,firstname998,lastname998,1234568887,Registered
+30444236,TX,SAN ANGELO,TOM GREEN,33,African-American,2.6,86.6,firstname999,lastname999,1234568888,Registered
+7036367,TX,GRAND PRAIRIE,DALLAS,39,African-American,2.6,76.8,firstname1000,lastname1000,1234568889,Registered
