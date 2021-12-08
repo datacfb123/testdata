@@ -1,0 +1,5 @@
+ID,ID Type,Voter First Name,Voter Last Name,Voter Phone,Date Called,Time Called (EST),starting_question
+7591131,A,firstname1,lastname1,1234567890,10/19/21,04:35 PM EST,Wrong Number
+7930949,B,firstname2,lastname2,1234567890,10/19/21,04:28 PM EST,Not Home (1)
+7371170,B,firstname3,lastname3,1234567890,10/19/21,04:33 PM EST,Refused (2)
+7725825,A,firstname4,lastname4,1234567890,10/19/21,04:34 PM EST,Hangup
